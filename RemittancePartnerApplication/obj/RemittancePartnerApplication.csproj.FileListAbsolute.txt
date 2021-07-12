@@ -1,0 +1,491 @@
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittanceTieupTemplate\RemittancePartnerApplication\bin\Debug\SpeedRemitApplication.exe.config
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittanceTieupTemplate\RemittancePartnerApplication\obj\Debug\SpeedRemitApplication.exe
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittanceTieupTemplate\RemittancePartnerApplication\obj\Debug\SpeedRemitApplication.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittanceTieupTemplate\RemittancePartnerApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittanceTieupTemplate\RemittancePartnerApplication\obj\Debug\SpeedRemitApplication.Properties.Resources.resources
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittanceTieupTemplate\RemittancePartnerApplication\obj\Debug\SpeedRemitApplication.RemittancePartnerForm.resources
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittanceTieupTemplate\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.csproj.GenerateResource.Cache
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittanceTieupTemplate\RemittancePartnerApplication\bin\Debug\SpeedRemitApplication.exe
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittanceTieupTemplate\RemittancePartnerApplication\bin\Debug\SpeedRemitApplication.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittanceTieupTemplate\RemittancePartnerApplication\bin\Debug\SpeedRemitControlLibrary.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittanceTieupTemplate\RemittancePartnerApplication\bin\Debug\AppCryptor.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittanceTieupTemplate\RemittancePartnerApplication\bin\Debug\AESCryptor.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittanceTieupTemplate\RemittancePartnerApplication\bin\Debug\SpeedRemitControlLibrary.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittancePartnerTemplate\RemittancePartnerApplication\bin\Debug\AppCryptor.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittancePartnerTemplate\RemittancePartnerApplication\bin\Debug\AESCryptor.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittancePartnerTemplate\RemittancePartnerApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittancePartnerTemplate\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.csproj.GenerateResource.Cache
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittancePartnerTemplate\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe.config
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittancePartnerTemplate\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittancePartnerTemplate\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittancePartnerTemplate\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.Properties.Resources.resources
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittancePartnerTemplate\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittancePartnerTemplate\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittancePartnerTemplate\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.exe.config
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittancePartnerTemplate\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittancePartnerTemplate\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittancePartnerTemplate\RemittancePartnerApplication\bin\Release\AppCryptor.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittancePartnerTemplate\RemittancePartnerApplication\bin\Release\AESCryptor.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittancePartnerTemplate\RemittancePartnerApplication\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittancePartnerTemplate\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.Properties.Resources.resources
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittancePartnerTemplate\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.csproj.GenerateResource.Cache
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittancePartnerTemplate\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittancePartnerTemplate\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittancePartnerTemplate\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.RemittancePartnerForm.resources
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittancePartnerTemplate\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.RemittancePartnerForm.resources
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittancePartnerTemplate\RemittancePartnerApplication\bin\Debug\RemittancePartnerControlLibrary.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittancePartnerTemplate\RemittancePartnerApplication\bin\Debug\RemittancePartnerControlLibrary.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittancePartnerTemplate\RemittancePartnerApplication\bin\Release\RemittancePartnerControlLibrary.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittancePartnerTemplate\RemittancePartnerApplication\bin\Release\RemittancePartnerControlLibrary.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\Special Projects\RemittancePartnerTemplate\RemittancePartnerApplication\bin\Release\RemittancePartnerControlLibrary.XmlSerializers.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Templates\RemittancePartnerTemplate\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe.config
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Templates\RemittancePartnerTemplate\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Templates\RemittancePartnerTemplate\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe.config
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom\RemittancePartnerApplication\bin\Debug\AppCryptor.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom\RemittancePartnerApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.Properties.Resources.resources
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.RemittancePartnerForm.resources
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.csproj.GenerateResource.Cache
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.exe.config
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom\RemittancePartnerApplication\bin\Release\AppCryptor.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom\RemittancePartnerApplication\bin\Release\AESCryptor.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom\RemittancePartnerApplication\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.Properties.Resources.resources
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.RemittancePartnerForm.resources
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.csproj.GenerateResource.Cache
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom\RemittancePartnerApplication\bin\Debug\XoomControlLibrary.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom\RemittancePartnerApplication\bin\Debug\XoomControlLibrary.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom\RemittancePartnerApplication\bin\Release\XoomControlLibrary.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom\RemittancePartnerApplication\bin\Release\XoomControlLibrary.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom\RemittancePartnerApplication\bin\Release\XoomControlLibrary.XmlSerializers.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom_1.6.7.5\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe.config
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom_1.6.7.5\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom_1.6.7.5\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom_1.6.7.5\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom_1.6.7.5\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom_1.6.7.5\RemittancePartnerApplication\bin\Debug\XoomControlLibrary.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom_1.6.7.5\RemittancePartnerApplication\bin\Debug\AppCryptor.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom_1.6.7.5\RemittancePartnerApplication\bin\Debug\XoomControlLibrary.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom_1.6.7.5\RemittancePartnerApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom_1.6.7.5\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.Properties.Resources.resources
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom_1.6.7.5\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.RemittancePartnerForm.resources
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom_1.6.7.5\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.csproj.GenerateResource.Cache
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom_1.6.7.5\RemittancePartnerApplication\bin\Debug\DollarPayoutPopup.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom_1.6.7.5\RemittancePartnerApplication\bin\Debug\CommonFunctions.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom_1.6.7.5\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.exe.config
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom_1.6.7.5\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom_1.6.7.5\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom_1.6.7.5\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom_1.6.7.5\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom_1.6.7.5\RemittancePartnerApplication\bin\Release\XoomControlLibrary.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom_1.6.7.5\RemittancePartnerApplication\bin\Release\AppCryptor.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom_1.6.7.5\RemittancePartnerApplication\bin\Release\AESCryptor.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom_1.6.7.5\RemittancePartnerApplication\bin\Release\XoomControlLibrary.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom_1.6.7.5\RemittancePartnerApplication\bin\Release\XoomControlLibrary.XmlSerializers.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom_1.6.7.5\RemittancePartnerApplication\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom_1.6.7.5\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.Properties.Resources.resources
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom_1.6.7.5\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.RemittancePartnerForm.resources
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom_1.6.7.5\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.csproj.GenerateResource.Cache
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom_1.6.7.5\RemittancePartnerApplication\bin\Release\DollarPayoutPopup.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\Xoom_1.6.7.5\RemittancePartnerApplication\bin\Release\CommonFunctions.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\MetroBank\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe.config
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\MetroBank\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\MetroBank\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\MetroBank\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\MetroBank\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\MetroBank\RemittancePartnerApplication\bin\Debug\DollarPayoutPopup.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\MetroBank\RemittancePartnerApplication\bin\Debug\CommonFunctions.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\MetroBank\RemittancePartnerApplication\bin\Debug\AppCryptor.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\MetroBank\RemittancePartnerApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\MetroBank\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.Properties.Resources.resources
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\MetroBank\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.RemittancePartnerForm.resources
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\MetroBank\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.csproj.GenerateResource.Cache
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\MetroBank\RemittancePartnerApplication\bin\Debug\MetroBankControlLibrary.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\MetroBank\RemittancePartnerApplication\bin\Debug\MetroBankControlLibrary.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\MetroBank\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.exe.config
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\MetroBank\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\MetroBank\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\MetroBank\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\MetroBank\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\MetroBank\RemittancePartnerApplication\bin\Release\MetroBankControlLibrary.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\MetroBank\RemittancePartnerApplication\bin\Release\DollarPayoutPopup.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\MetroBank\RemittancePartnerApplication\bin\Release\CommonFunctions.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\MetroBank\RemittancePartnerApplication\bin\Release\AppCryptor.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\MetroBank\RemittancePartnerApplication\bin\Release\AESCryptor.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\MetroBank\RemittancePartnerApplication\bin\Release\MetroBankControlLibrary.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\MetroBank\RemittancePartnerApplication\bin\Release\MetroBankControlLibrary.XmlSerializers.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\MetroBank\RemittancePartnerApplication\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\MetroBank\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.Properties.Resources.resources
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\MetroBank\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.RemittancePartnerForm.resources
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\MetroBank\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.csproj.GenerateResource.Cache
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2-20110114\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe.config
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2-20110114\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2-20110114\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2-20110114\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2-20110114\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2-20110114\RemittancePartnerApplication\bin\Debug\NybpControlLibrary.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2-20110114\RemittancePartnerApplication\bin\Debug\DollarPayoutPopup.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2-20110114\RemittancePartnerApplication\bin\Debug\CommonFunctions.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2-20110114\RemittancePartnerApplication\bin\Debug\AppCryptor.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2-20110114\RemittancePartnerApplication\bin\Debug\NybpControlLibrary.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2-20110114\RemittancePartnerApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2-20110114\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.Properties.Resources.resources
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2-20110114\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.RemittancePartnerForm.resources
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2-20110114\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.csproj.GenerateResource.Cache
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2-20110117\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe.config
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2-20110117\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2-20110117\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2-20110117\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2-20110117\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2-20110117\RemittancePartnerApplication\bin\Debug\NybpControlLibrary.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2-20110117\RemittancePartnerApplication\bin\Debug\DollarPayoutPopup.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2-20110117\RemittancePartnerApplication\bin\Debug\CommonFunctions.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2-20110117\RemittancePartnerApplication\bin\Debug\AppCryptor.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2-20110117\RemittancePartnerApplication\bin\Debug\NybpControlLibrary.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2-20110117\RemittancePartnerApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2-20110117\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.Properties.Resources.resources
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2-20110117\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.RemittancePartnerForm.resources
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2-20110117\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.csproj.GenerateResource.Cache
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe.config
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2\RemittancePartnerApplication\bin\Debug\NybpControlLibrary.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2\RemittancePartnerApplication\bin\Debug\DollarPayoutPopup.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2\RemittancePartnerApplication\bin\Debug\CommonFunctions.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2\RemittancePartnerApplication\bin\Debug\AppCryptor.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2\RemittancePartnerApplication\bin\Debug\NybpControlLibrary.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2\RemittancePartnerApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.Properties.Resources.resources
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.RemittancePartnerForm.resources
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.csproj.GenerateResource.Cache
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.exe.config
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2\RemittancePartnerApplication\bin\Release\NybpControlLibrary.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2\RemittancePartnerApplication\bin\Release\DollarPayoutPopup.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2\RemittancePartnerApplication\bin\Release\CommonFunctions.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2\RemittancePartnerApplication\bin\Release\AppCryptor.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2\RemittancePartnerApplication\bin\Release\NybpControlLibrary.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2\RemittancePartnerApplication\bin\Release\NybpControlLibrary.XmlSerializers.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2\RemittancePartnerApplication\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.Properties.Resources.resources
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.RemittancePartnerForm.resources
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\NYBP2\NYBP2\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.csproj.GenerateResource.Cache
+C:\Documents and Settings\jmrivero\Desktop\NYBP2\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe.config
+C:\Documents and Settings\jmrivero\Desktop\NYBP2\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\Desktop\NYBP2\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\Desktop\NYBP2\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.exe.config
+C:\Documents and Settings\jmrivero\Desktop\NYBP2\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\Desktop\NYBP2\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\Desktop\NYBP2\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\Desktop\NYBP2\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\Desktop\NYBP2\RemittancePartnerApplication\bin\Release\NybpControlLibrary.dll
+C:\Documents and Settings\jmrivero\Desktop\NYBP2\RemittancePartnerApplication\bin\Release\AvailmentRatioModule.dll
+C:\Documents and Settings\jmrivero\Desktop\NYBP2\RemittancePartnerApplication\bin\Release\DollarPayoutPopup.dll
+C:\Documents and Settings\jmrivero\Desktop\NYBP2\RemittancePartnerApplication\bin\Release\CommonFunctions.dll
+C:\Documents and Settings\jmrivero\Desktop\NYBP2\RemittancePartnerApplication\bin\Release\AppCryptor.dll
+C:\Documents and Settings\jmrivero\Desktop\NYBP2\RemittancePartnerApplication\bin\Release\NybpControlLibrary.pdb
+C:\Documents and Settings\jmrivero\Desktop\NYBP2\RemittancePartnerApplication\bin\Release\NybpControlLibrary.XmlSerializers.dll
+C:\Documents and Settings\jmrivero\Desktop\NYBP2\RemittancePartnerApplication\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\jmrivero\Desktop\NYBP2\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.Properties.Resources.resources
+C:\Documents and Settings\jmrivero\Desktop\NYBP2\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.RemittancePartnerForm.resources
+C:\Documents and Settings\jmrivero\Desktop\NYBP2\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.csproj.GenerateResource.Cache
+C:\Documents and Settings\jmrivero\Desktop\NYBP2\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\Desktop\NYBP2\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\Desktop\NYBP2\RemittancePartnerApplication\bin\Debug\NybpControlLibrary.dll
+C:\Documents and Settings\jmrivero\Desktop\NYBP2\RemittancePartnerApplication\bin\Debug\AvailmentRatioModule.dll
+C:\Documents and Settings\jmrivero\Desktop\NYBP2\RemittancePartnerApplication\bin\Debug\DollarPayoutPopup.dll
+C:\Documents and Settings\jmrivero\Desktop\NYBP2\RemittancePartnerApplication\bin\Debug\CommonFunctions.dll
+C:\Documents and Settings\jmrivero\Desktop\NYBP2\RemittancePartnerApplication\bin\Debug\AppCryptor.dll
+C:\Documents and Settings\jmrivero\Desktop\NYBP2\RemittancePartnerApplication\bin\Debug\NybpControlLibrary.pdb
+C:\Documents and Settings\jmrivero\Desktop\NYBP2\RemittancePartnerApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jmrivero\Desktop\NYBP2\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.Properties.Resources.resources
+C:\Documents and Settings\jmrivero\Desktop\NYBP2\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.RemittancePartnerForm.resources
+C:\Documents and Settings\jmrivero\Desktop\NYBP2\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.csproj.GenerateResource.Cache
+C:\Documents and Settings\jmrivero\Desktop\NYBP2-REVISED\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe.config
+C:\Documents and Settings\jmrivero\Desktop\NYBP2-REVISED\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\Desktop\NYBP2-REVISED\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\Desktop\ChinaBank\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe.config
+C:\Documents and Settings\jmrivero\Desktop\ChinaBank\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\Desktop\ChinaBank\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\Desktop\ChinaBank\RemittancePartnerApplication\bin\Debug\AvailmentRatioModule.dll
+C:\Documents and Settings\jmrivero\Desktop\ChinaBank\RemittancePartnerApplication\bin\Debug\DollarPayoutPopup.dll
+C:\Documents and Settings\jmrivero\Desktop\ChinaBank\RemittancePartnerApplication\bin\Debug\CommonFunctions.dll
+C:\Documents and Settings\jmrivero\Desktop\ChinaBank\RemittancePartnerApplication\bin\Debug\AppCryptor.dll
+C:\Documents and Settings\jmrivero\Desktop\ChinaBank\RemittancePartnerApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jmrivero\Desktop\ChinaBank\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.Properties.Resources.resources
+C:\Documents and Settings\jmrivero\Desktop\ChinaBank\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.RemittancePartnerForm.resources
+C:\Documents and Settings\jmrivero\Desktop\ChinaBank\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.csproj.GenerateResource.Cache
+C:\Documents and Settings\jmrivero\Desktop\ChinaBank\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\Desktop\ChinaBank\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\Desktop\ChinaBank\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.exe.config
+C:\Documents and Settings\jmrivero\Desktop\ChinaBank\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\Desktop\ChinaBank\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\Desktop\ChinaBank\RemittancePartnerApplication\bin\Debug\ChinaBankControlLibrary.dll
+C:\Documents and Settings\jmrivero\Desktop\ChinaBank\RemittancePartnerApplication\bin\Debug\ChinaBankControlLibrary.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\ChinaBank\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe.config
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\ChinaBank\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\ChinaBank\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\ChinaBank\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\ChinaBank\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\ChinaBank\RemittancePartnerApplication\bin\Debug\ChinaBankControlLibrary.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\ChinaBank\RemittancePartnerApplication\bin\Debug\AvailmentRatioModule.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\ChinaBank\RemittancePartnerApplication\bin\Debug\DollarPayoutPopup.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\ChinaBank\RemittancePartnerApplication\bin\Debug\CommonFunctions.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\ChinaBank\RemittancePartnerApplication\bin\Debug\AppCryptor.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\ChinaBank\RemittancePartnerApplication\bin\Debug\ChinaBankControlLibrary.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\ChinaBank\RemittancePartnerApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\ChinaBank\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.Properties.Resources.resources
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\ChinaBank\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.RemittancePartnerForm.resources
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\ChinaBank\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.csproj.GenerateResource.Cache
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\ChinaBank\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.exe.config
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\ChinaBank\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\ChinaBank\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\ChinaBank\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.exe
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\ChinaBank\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\ChinaBank\RemittancePartnerApplication\bin\Release\ChinaBankControlLibrary.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\ChinaBank\RemittancePartnerApplication\bin\Release\AvailmentRatioModule.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\ChinaBank\RemittancePartnerApplication\bin\Release\CommonFunctions.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\ChinaBank\RemittancePartnerApplication\bin\Release\AppCryptor.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\ChinaBank\RemittancePartnerApplication\bin\Release\DollarPayoutPopup.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\ChinaBank\RemittancePartnerApplication\bin\Release\ChinaBankControlLibrary.pdb
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\ChinaBank\RemittancePartnerApplication\bin\Release\ChinaBankControlLibrary.XmlSerializers.dll
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\ChinaBank\RemittancePartnerApplication\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\ChinaBank\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.Properties.Resources.resources
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\ChinaBank\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.RemittancePartnerForm.resources
+C:\Documents and Settings\jmrivero\My Documents\Development\B2B\Projects\ChinaBank\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.csproj.GenerateResource.Cache
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131104\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe.config
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131104\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131104\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131104\RemittancePartnerApplication\bin\Debug\ChinaBankControlLibrary.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131104\RemittancePartnerApplication\bin\Debug\AvailmentRatioModule.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131104\RemittancePartnerApplication\bin\Debug\CommonFunctions.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131104\RemittancePartnerApplication\bin\Debug\AppCryptor.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131104\RemittancePartnerApplication\bin\Debug\DollarPayoutPopup.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131104\RemittancePartnerApplication\bin\Debug\ChinaBankControlLibrary.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131104\RemittancePartnerApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131104\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.Properties.Resources.resources
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131104\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.RemittancePartnerForm.resources
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131104\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.csproj.GenerateResource.Cache
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131104\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.exe
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131104\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131104\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.exe.config
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131104\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.exe
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131104\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131104\RemittancePartnerApplication\bin\Release\ChinaBankControlLibrary.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131104\RemittancePartnerApplication\bin\Release\AvailmentRatioModule.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131104\RemittancePartnerApplication\bin\Release\CommonFunctions.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131104\RemittancePartnerApplication\bin\Release\AppCryptor.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131104\RemittancePartnerApplication\bin\Release\DollarPayoutPopup.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131104\RemittancePartnerApplication\bin\Release\ChinaBankControlLibrary.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131104\RemittancePartnerApplication\bin\Release\ChinaBankControlLibrary.XmlSerializers.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131104\RemittancePartnerApplication\obj\Release\ResolveAssemblyReference.cache
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131104\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.Properties.Resources.resources
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131104\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.RemittancePartnerForm.resources
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131104\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.csproj.GenerateResource.Cache
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131104\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.exe
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131104\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131119\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.exe.config
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131119\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.exe
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131119\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131119\RemittancePartnerApplication\bin\Release\ChinaBankControlLibrary.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131119\RemittancePartnerApplication\bin\Release\AvailmentRatioModule.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131119\RemittancePartnerApplication\bin\Release\DollarPayoutPopup.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131119\RemittancePartnerApplication\bin\Release\CommonFunctions.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131119\RemittancePartnerApplication\bin\Release\AppCryptor.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131119\RemittancePartnerApplication\bin\Release\ChinaBankControlLibrary.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131119\RemittancePartnerApplication\bin\Release\ChinaBankControlLibrary.XmlSerializers.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131119\RemittancePartnerApplication\obj\Release\ResolveAssemblyReference.cache
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131119\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.Properties.Resources.resources
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131119\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.RemittancePartnerForm.resources
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131119\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.csproj.GenerateResource.Cache
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131119\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.exe
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131119\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.exe.config
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.exe
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\bin\Release\ChinaBankControlLibrary.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\bin\Release\AvailmentRatioModule.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\bin\Release\DollarPayoutPopup.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\bin\Release\CommonFunctions.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\bin\Release\AppCryptor.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\bin\Release\ChinaBankControlLibrary.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\bin\Release\ChinaBankControlLibrary.XmlSerializers.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\obj\Release\ResolveAssemblyReference.cache
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.Properties.Resources.resources
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.RemittancePartnerForm.resources
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.csproj.GenerateResource.Cache
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.exe
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\bin\Release\PrintModule.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe.config
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\bin\Debug\ChinaBankControlLibrary.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\bin\Debug\AvailmentRatioModule.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\bin\Debug\CommonFunctions.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\bin\Debug\AppCryptor.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\bin\Debug\PrintModule.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\bin\Debug\DollarPayoutPopup.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\bin\Debug\ChinaBankControlLibrary.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.Properties.Resources.resources
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.RemittancePartnerForm.resources
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.csproj.GenerateResource.Cache
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.exe
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20131209\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe.config
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\bin\Debug\ChinaBankControlLibrary.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\bin\Debug\AvailmentRatioModule.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\bin\Debug\DollarPayoutPopup.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\bin\Debug\CommonFunctions.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\bin\Debug\AppCryptor.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\bin\Debug\RegistryItems.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\bin\Debug\PrintModule.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\bin\Debug\ChinaBankControlLibrary.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.Properties.Resources.resources
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.RemittancePartnerForm.resources
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.csproj.GenerateResource.Cache
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.exe
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.exe.config
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.exe
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\bin\Release\ChinaBankControlLibrary.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\bin\Release\AvailmentRatioModule.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\bin\Release\DollarPayoutPopup.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\bin\Release\CommonFunctions.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\bin\Release\AppCryptor.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\bin\Release\RegistryItems.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\bin\Release\PrintModule.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\bin\Release\ChinaBankControlLibrary.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\bin\Release\ChinaBankControlLibrary.XmlSerializers.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\obj\Release\ResolveAssemblyReference.cache
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.Properties.Resources.resources
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.RemittancePartnerForm.resources
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.csproj.GenerateResource.Cache
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.exe
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140113\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.exe.config
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.exe
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\bin\Release\ChinaBankControlLibrary.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\bin\Release\AvailmentRatioModule.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\bin\Release\DollarPayoutPopup.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\bin\Release\CommonFunctions.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\bin\Release\AppCryptor.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\bin\Release\RegistryItems.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\bin\Release\PrintModule.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\bin\Release\ChinaBankControlLibrary.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\bin\Release\ChinaBankControlLibrary.XmlSerializers.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\obj\Release\ResolveAssemblyReference.cache
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.Properties.Resources.resources
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.RemittancePartnerForm.resources
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.csproj.GenerateResource.Cache
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.exe
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe.config
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\bin\Debug\ChinaBankControlLibrary.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\bin\Debug\AvailmentRatioModule.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\bin\Debug\DollarPayoutPopup.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\bin\Debug\CommonFunctions.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\bin\Debug\AppCryptor.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\bin\Debug\RegistryItems.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\bin\Debug\PrintModule.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\bin\Debug\ChinaBankControlLibrary.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.Properties.Resources.resources
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.RemittancePartnerForm.resources
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.csproj.GenerateResource.Cache
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.exe
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank - 20140130\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140213\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.exe.config
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140213\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.exe
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140213\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140213\RemittancePartnerApplication\bin\Release\ChinaBankControlLibrary.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140213\RemittancePartnerApplication\bin\Release\AvailmentRatioModule.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140213\RemittancePartnerApplication\bin\Release\CommonFunctions.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140213\RemittancePartnerApplication\bin\Release\AppCryptor.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140213\RemittancePartnerApplication\bin\Release\RegistryItems.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140213\RemittancePartnerApplication\bin\Release\PrintModule.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140213\RemittancePartnerApplication\bin\Release\DollarPayoutPopup.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140213\RemittancePartnerApplication\bin\Release\ChinaBankControlLibrary.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140213\RemittancePartnerApplication\bin\Release\ChinaBankControlLibrary.XmlSerializers.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140213\RemittancePartnerApplication\obj\Release\ResolveAssemblyReference.cache
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140213\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.Properties.Resources.resources
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140213\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.RemittancePartnerForm.resources
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140213\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.csproj.GenerateResource.Cache
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140213\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.exe
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140213\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.exe.config
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.exe
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\bin\Release\ChinaBankControlLibrary.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\bin\Release\AvailmentRatioModule.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\bin\Release\CommonFunctions.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\bin\Release\AppCryptor.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\bin\Release\RegistryItems.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\bin\Release\PrintModule.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\bin\Release\DollarPayoutPopup.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\bin\Release\ChinaBankControlLibrary.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\bin\Release\ChinaBankControlLibrary.XmlSerializers.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\obj\Release\ResolveAssemblyReference.cache
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.Properties.Resources.resources
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.RemittancePartnerForm.resources
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.csproj.GenerateResource.Cache
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.exe
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\bin\Release\B2BUtilities.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe.config
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.exe
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\bin\Debug\RemittancePartnerApplication.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\bin\Debug\ChinaBankControlLibrary.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\bin\Debug\AvailmentRatioModule.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\bin\Debug\DollarPayoutPopup.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\bin\Debug\CommonFunctions.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\bin\Debug\AppCryptor.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\bin\Debug\PrintModule.dll
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\bin\Debug\ChinaBankControlLibrary.pdb
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.Properties.Resources.resources
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.RemittancePartnerForm.resources
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.csproj.GenerateResource.Cache
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.exe
+C:\Users\esfranco\Desktop\New Folder\International Remittance\ChinaBank\ChinaBank -20140224\RemittancePartnerApplication\obj\Debug\RemittancePartnerApplication.pdb
+C:\Users\rmcamacho\Desktop\NRPF\PASS 5 - 1.8.5.6\PULL PARTNERS\ChinaBank\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.exe.config
+C:\Users\rmcamacho\Desktop\NRPF\PASS 5 - 1.8.5.6\PULL PARTNERS\ChinaBank\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.exe
+C:\Users\rmcamacho\Desktop\NRPF\PASS 5 - 1.8.5.6\PULL PARTNERS\ChinaBank\RemittancePartnerApplication\bin\Release\RemittancePartnerApplication.pdb
+C:\Users\rmcamacho\Desktop\NRPF\PASS 5 - 1.8.5.6\PULL PARTNERS\ChinaBank\RemittancePartnerApplication\bin\Release\ChinaBankControlLibrary.dll
+C:\Users\rmcamacho\Desktop\NRPF\PASS 5 - 1.8.5.6\PULL PARTNERS\ChinaBank\RemittancePartnerApplication\bin\Release\AvailmentRatioModule.dll
+C:\Users\rmcamacho\Desktop\NRPF\PASS 5 - 1.8.5.6\PULL PARTNERS\ChinaBank\RemittancePartnerApplication\bin\Release\DollarPayoutPopup.dll
+C:\Users\rmcamacho\Desktop\NRPF\PASS 5 - 1.8.5.6\PULL PARTNERS\ChinaBank\RemittancePartnerApplication\bin\Release\CommonFunctions.dll
+C:\Users\rmcamacho\Desktop\NRPF\PASS 5 - 1.8.5.6\PULL PARTNERS\ChinaBank\RemittancePartnerApplication\bin\Release\AppCryptor.dll
+C:\Users\rmcamacho\Desktop\NRPF\PASS 5 - 1.8.5.6\PULL PARTNERS\ChinaBank\RemittancePartnerApplication\bin\Release\B2BUtilities.dll
+C:\Users\rmcamacho\Desktop\NRPF\PASS 5 - 1.8.5.6\PULL PARTNERS\ChinaBank\RemittancePartnerApplication\bin\Release\PrintModule.dll
+C:\Users\rmcamacho\Desktop\NRPF\PASS 5 - 1.8.5.6\PULL PARTNERS\ChinaBank\RemittancePartnerApplication\bin\Release\RegistryItems.dll
+C:\Users\rmcamacho\Desktop\NRPF\PASS 5 - 1.8.5.6\PULL PARTNERS\ChinaBank\RemittancePartnerApplication\bin\Release\ChinaBankControlLibrary.pdb
+C:\Users\rmcamacho\Desktop\NRPF\PASS 5 - 1.8.5.6\PULL PARTNERS\ChinaBank\RemittancePartnerApplication\bin\Release\ChinaBankControlLibrary.XmlSerializers.dll
+C:\Users\rmcamacho\Desktop\NRPF\PASS 5 - 1.8.5.6\PULL PARTNERS\ChinaBank\RemittancePartnerApplication\obj\Release\ResolveAssemblyReference.cache
+C:\Users\rmcamacho\Desktop\NRPF\PASS 5 - 1.8.5.6\PULL PARTNERS\ChinaBank\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.Properties.Resources.resources
+C:\Users\rmcamacho\Desktop\NRPF\PASS 5 - 1.8.5.6\PULL PARTNERS\ChinaBank\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.RemittancePartnerForm.resources
+C:\Users\rmcamacho\Desktop\NRPF\PASS 5 - 1.8.5.6\PULL PARTNERS\ChinaBank\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.csproj.GenerateResource.Cache
+C:\Users\rmcamacho\Desktop\NRPF\PASS 5 - 1.8.5.6\PULL PARTNERS\ChinaBank\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.exe
+C:\Users\rmcamacho\Desktop\NRPF\PASS 5 - 1.8.5.6\PULL PARTNERS\ChinaBank\RemittancePartnerApplication\obj\Release\RemittancePartnerApplication.pdb

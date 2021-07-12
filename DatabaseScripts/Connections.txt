@@ -1,0 +1,4 @@
+DBRefFolders found in your dbp file
+Connect String: Data Source=BEAUTIFLY;Initial Catalog=DBRemittance;Persist Security Info=True;User ID=SysTestDB
+Provider: Microsoft SQL Server
+

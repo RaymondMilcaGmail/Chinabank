@@ -1,0 +1,21 @@
+# Microsoft Developer Studio Project File - Database Project
+Begin DataProject = "DatabaseScripts"
+   MSDTVersion = "80"
+   DefDBRef = "beautifly.DBRemittance.dbo"
+   Begin Folder = "Create Scripts"
+      Script = "RemittancePartner-01-CreateSchema.sql"
+      Script = "RemittancePartner-02-CreateProc-InsertPayoutTransaction.sql"
+      Script = "RemittancePartner-03-CreateProc-UpdatePayoutTransaction.sql"
+      Script = "RemittancePartner-04-Insert-Partner.sql"
+   End
+   Begin DBRefFolder = "Database References"
+      Begin DBRefNode = "beautifly.DBRemittance.dbo"
+         ConnectStr = "Data Source=BEAUTIFLY;Initial Catalog=DBRemittance;Persist Security Info=True;User ID=SysTestDB"
+         Provider = "{91510608-8809-4020-8897-FBA057E22D54}"
+         Colorizer = 6
+      End
+   End
+   Begin Folder = "Queries"
+      Script = "GetPartnerTransactions.sql"
+   End
+End

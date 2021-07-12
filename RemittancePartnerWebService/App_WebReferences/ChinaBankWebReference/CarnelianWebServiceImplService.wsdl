@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:tns="http://webservice.carnelian.ccti.com/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:ns1="http://schemas.xmlsoap.org/soap/http" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="CarnelianWebServiceImplService" targetNamespace="http://webservice.carnelian.ccti.com/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xs:schema elementFormDefault="unqualified" targetNamespace="http://webservice.carnelian.ccti.com/" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <xs:element name="requestTransaction" type="tns:requestTransaction" />
+      <xs:element name="requestTransactionResponse" type="tns:requestTransactionResponse" />
+      <xs:element name="updateTransactionStatus" type="tns:updateTransactionStatus" />
+      <xs:element name="updateTransactionStatusResponse" type="tns:updateTransactionStatusResponse" />
+      <xs:complexType name="requestTransaction">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="arg0" type="tns:requestHeader" />
+          <xs:element minOccurs="0" name="arg1" type="xs:string" />
+          <xs:element minOccurs="0" name="arg2" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="requestHeader">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="password" type="xs:string" />
+          <xs:element minOccurs="0" name="username" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="requestTransactionResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:requestTransactionResult" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="requestTransactionResult">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="errorMessage" type="xs:string" />
+          <xs:element minOccurs="0" name="isError" type="xs:int" />
+          <xs:element minOccurs="0" maxOccurs="unbounded" name="remittanceResponseList" nillable="true" type="tns:remittanceResponse" />
+          <xs:element minOccurs="0" name="requestHeader" type="tns:requestHeader" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="remittanceResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="beneficiaryName" type="xs:string" />
+          <xs:element minOccurs="0" name="messageToRecipient" type="xs:string" />
+          <xs:element minOccurs="0" name="remitterName" type="xs:string" />
+          <xs:element minOccurs="0" name="transactionAmount" type="xs:string" />
+          <xs:element minOccurs="0" name="transactionCurrency" type="xs:string" />
+          <xs:element minOccurs="0" name="transactionRefNo" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="updateTransactionStatus">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="arg0" type="tns:requestHeader" />
+          <xs:element minOccurs="0" name="arg1" type="xs:int" />
+          <xs:element minOccurs="0" name="arg2" type="xs:string" />
+          <xs:element minOccurs="0" name="arg3" type="xs:string" />
+          <xs:element minOccurs="0" name="arg4" type="xs:string" />
+          <xs:element minOccurs="0" name="arg5" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="updateTransactionStatusResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:transactionUpdateResult" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="transactionUpdateResult">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="errorMessage" type="xs:string" />
+          <xs:element minOccurs="0" name="isError" type="xs:int" />
+        </xs:sequence>
+      </xs:complexType>
+    </xs:schema>
+  </wsdl:types>
+  <wsdl:message name="updateTransactionStatusResponse">
+    <wsdl:part name="parameters" element="tns:updateTransactionStatusResponse" />
+  </wsdl:message>
+  <wsdl:message name="updateTransactionStatus">
+    <wsdl:part name="parameters" element="tns:updateTransactionStatus" />
+  </wsdl:message>
+  <wsdl:message name="requestTransaction">
+    <wsdl:part name="parameters" element="tns:requestTransaction" />
+  </wsdl:message>
+  <wsdl:message name="requestTransactionResponse">
+    <wsdl:part name="parameters" element="tns:requestTransactionResponse" />
+  </wsdl:message>
+  <wsdl:portType name="CarnelianWebService">
+    <wsdl:operation name="requestTransaction">
+      <wsdl:input name="requestTransaction" message="tns:requestTransaction" />
+      <wsdl:output name="requestTransactionResponse" message="tns:requestTransactionResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="updateTransactionStatus">
+      <wsdl:input name="updateTransactionStatus" message="tns:updateTransactionStatus" />
+      <wsdl:output name="updateTransactionStatusResponse" message="tns:updateTransactionStatusResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="CarnelianWebServiceImplServiceSoapBinding" type="tns:CarnelianWebService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="requestTransaction">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="requestTransaction">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="requestTransactionResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="updateTransactionStatus">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="updateTransactionStatus">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="updateTransactionStatusResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="CarnelianWebServiceImplService">
+    <wsdl:port name="CarnelianWebServiceImplPort" binding="tns:CarnelianWebServiceImplServiceSoapBinding">
+      <soap:address location="https://172.20.20.198:8181/carnelian-web-service-server/cxf/carnelian" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

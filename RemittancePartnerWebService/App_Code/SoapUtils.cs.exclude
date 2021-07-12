@@ -1,0 +1,132 @@
+﻿using System;
+using System.Data;
+using System.Configuration;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.HtmlControls;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Xml;
+using System.Web.Services.Protocols;
+
+/// <summary>
+/// SoapUtils
+/// </summary>
+public class SoapUtils
+{
+    public static string GetSoapErrorMessage(SoapException soapError, string webServiceNamespace)
+    {
+        XmlDocument xmlDocument = new XmlDocument();
+        xmlDocument.LoadXml(soapError.Detail.OuterXml);
+
+        string errorMessage;// = String.Format("{0} An error has occurred, but the details could not be determined. Please contact ICT Support Desk.", codeLocation);
+
+        try
+        {
+            XmlNamespaceManager xmlNameSpaceManager = new XmlNamespaceManager(xmlDocument.NameTable);
+            xmlNameSpaceManager.AddNamespace("error", "webServiceNamespace");
+            XmlNode xmlNode = xmlDocument.DocumentElement.SelectSingleNode("error:Error", xmlNameSpaceManager);
+            errorMessage = xmlNode.SelectSingleNode("error:ErrorMessage", xmlNameSpaceManager).InnerText;
+        }
+        catch
+        {
+            errorMessage = String.Format("An error has occurred, but the details could not be determined. Please contact ICT Support Desk.");
+        }
+
+        return errorMessage;
+    }
+
+    public static SoapException BuildSoapException(string webServiceNamespace, string errorCode, string errorMessage, string errorSource, SoapFaultLocation soapFaultLocation, Exception innerError, XmlNode errorDetails)
+    {
+        string soapActor = String.Format("{0}/{1}", webServiceNamespace, errorSource);
+
+        XmlQualifiedName faultCodeLocation = null;
+
+        switch (soapFaultLocation)
+        {
+            case SoapFaultLocation.ClientFault:
+                faultCodeLocation = SoapException.ClientFaultCode;
+                break;
+            case SoapFaultLocation.ServerFault:
+                faultCodeLocation = SoapException.ServerFaultCode;
+                break;
+        }
+
+        XmlDocument xmlDocument = new XmlDocument();
+
+        XmlNode soapErrorDetailNode = xmlDocument.CreateNode(
+            XmlNodeType.Element,
+            SoapException.DetailElementName.Name,
+            SoapException.DetailElementName.Namespace);
+
+        XmlNode errorNode = xmlDocument.CreateNode(
+            XmlNodeType.Element,
+            "Error",
+            webServiceNamespace);
+
+        XmlNode errorCodeNode = xmlDocument.CreateNode(
+            XmlNodeType.Element,
+            "ErrorCode",
+            webServiceNamespace);
+
+        errorCodeNode.InnerText = errorCode;
+
+        XmlNode errorMessageNode = xmlDocument.CreateNode(
+            XmlNodeType.Element,
+            "ErrorMessage",
+            webServiceNamespace);
+
+        errorMessageNode.InnerText = errorMessage;
+
+        XmlNode errorSourceNode = xmlDocument.CreateNode(
+            XmlNodeType.Element,
+            "ErrorSource",
+            webServiceNamespace);
+
+        errorSourceNode.InnerText = errorSource;
+
+        errorNode.AppendChild(errorCodeNode);
+        errorNode.AppendChild(errorMessageNode);
+        errorNode.AppendChild(errorSourceNode);
+
+        if (errorDetails != null)
+        {
+            errorNode.AppendChild(
+                xmlDocument.ImportNode(errorDetails, true)
+                );
+        }
+
+        soapErrorDetailNode.AppendChild(errorNode);
+
+        SoapException soapError = new SoapException(
+            errorMessage,
+            faultCodeLocation,
+            soapActor,
+            soapErrorDetailNode,
+            innerError);
+
+        return soapError;
+    }
+
+    public static SoapException BuildSoapException(
+        string webServiceNamespace,
+        string errorCode,
+        string errorMessage,
+        string errorSource,
+        SoapFaultLocation soapFaultLocation,
+        XmlNode errorDetails)
+    {
+        return BuildSoapException(webServiceNamespace, errorCode, errorMessage, errorSource, soapFaultLocation, null, errorDetails);
+    }
+
+    public static SoapException BuildSoapException(
+        string webServiceNamespace,
+        string errorCode,
+        string errorMessage,
+        string errorSource,
+        SoapFaultLocation soapFaultLocation)
+    {
+        return BuildSoapException(webServiceNamespace, errorCode, errorMessage, errorSource, soapFaultLocation, null, null);
+    }
+}
