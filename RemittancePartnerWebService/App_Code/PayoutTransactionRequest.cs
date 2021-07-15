@@ -55,8 +55,7 @@ public class PayoutTransactionRequest
 
     //private string _idType;
     private string _sessionID;
-
-    private string _pickupDate;
+    
     private string _reasonRemarks;
     private string _primaryIDIssuanceDate;
     private string _primaryIDExpirationdate;
@@ -183,12 +182,7 @@ public class PayoutTransactionRequest
         get { return _sessionID; }
         set { _sessionID = value; }
     }
-
-    public string PickupDate
-    {
-        get { return _pickupDate; }
-        set { _pickupDate = value; }
-    }
+    
 
     public string ReasonRemarks
     {
@@ -329,8 +323,8 @@ public class PayoutTransactionRequest
         transactionUpdateResult result = service.updateTransactionStatus(
             header,//0
             2,true, // 2 = Paid out//1
-            DateTime.Now.ToString("MMddyyyyhhmmss"),//2
-            string.Empty,//3
+            DateTime.Now.ToString("MMddyyyyhhmmss"),//2 Pickupdate
+            _reasonRemarks,//3
             _transactionNumber,//4
             RemittancePartnerConfiguration.OutletCode,//5
             _receiverIDType,//6
