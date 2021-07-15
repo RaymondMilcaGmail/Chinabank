@@ -92,6 +92,40 @@
             this.lblTitle = new System.Windows.Forms.Label();
             this.printDocument1 = new System.Drawing.Printing.PrintDocument();
             this.btnCloseForm = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.panel4 = new System.Windows.Forms.Panel();
+            this.label15 = new System.Windows.Forms.Label();
+            this.label16 = new System.Windows.Forms.Label();
+            this.label17 = new System.Windows.Forms.Label();
+            this.label18 = new System.Windows.Forms.Label();
+            this.label19 = new System.Windows.Forms.Label();
+            this.label20 = new System.Windows.Forms.Label();
+            this.txtTownCity = new System.Windows.Forms.TextBox();
+            this.txtBarangay = new System.Windows.Forms.TextBox();
+            this.txtStreet = new System.Windows.Forms.TextBox();
+            this.txtCountry = new System.Windows.Forms.TextBox();
+            this.txtZipCode = new System.Windows.Forms.TextBox();
+            this.txtProvince = new System.Windows.Forms.TextBox();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.label9 = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.cboSecondaryIDSubmitted = new System.Windows.Forms.ComboBox();
+            this.txtCustomerIDSecondayNumber = new System.Windows.Forms.TextBox();
+            this.label11 = new System.Windows.Forms.Label();
+            this.label14 = new System.Windows.Forms.Label();
+            this.label26 = new System.Windows.Forms.Label();
+            this.label28 = new System.Windows.Forms.Label();
+            this.label30 = new System.Windows.Forms.Label();
+            this.dateDateOfBirth = new System.Windows.Forms.DateTimePicker();
+            this.txtEmailAddress = new System.Windows.Forms.TextBox();
+            this.txtMobileNo = new System.Windows.Forms.TextBox();
+            this.dateCustomerIDSubmittedIssueDate = new System.Windows.Forms.DateTimePicker();
+            this.dateCustomerIDSubmittedExpireDate = new System.Windows.Forms.DateTimePicker();
+            this.dateCustomerIDSecondaryExpireDate = new System.Windows.Forms.DateTimePicker();
+            this.dateCustomerIDSecondaryIssueDate = new System.Windows.Forms.DateTimePicker();
             this.panelPayoutDetails.SuspendLayout();
             this.panel2.SuspendLayout();
             this.groupBox1.SuspendLayout();
@@ -107,6 +141,10 @@
             this.panelSelectedBeneficiaryDetails.SuspendLayout();
             this.panelPayoutProcessing.SuspendLayout();
             this.groupBoxPayoutProcessing.SuspendLayout();
+            this.groupBox3.SuspendLayout();
+            this.panel4.SuspendLayout();
+            this.groupBox2.SuspendLayout();
+            this.panel3.SuspendLayout();
             this.SuspendLayout();
             // 
             // panelPayoutDetails
@@ -536,34 +574,43 @@
             // 
             this.panelSelectedBeneficiaryDetailsMain.BackColor = System.Drawing.Color.White;
             this.panelSelectedBeneficiaryDetailsMain.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panelSelectedBeneficiaryDetailsMain.Controls.Add(this.groupBox2);
+            this.panelSelectedBeneficiaryDetailsMain.Controls.Add(this.groupBox3);
+            this.panelSelectedBeneficiaryDetailsMain.Controls.Add(this.btnCloseForm);
+            this.panelSelectedBeneficiaryDetailsMain.Controls.Add(this.progressBar1);
             this.panelSelectedBeneficiaryDetailsMain.Controls.Add(this.groupBoxCustomerIdentification);
+            this.panelSelectedBeneficiaryDetailsMain.Controls.Add(this.panelPayoutProcessing);
             this.panelSelectedBeneficiaryDetailsMain.Controls.Add(this.groupBoxCustomerInformation);
             this.panelSelectedBeneficiaryDetailsMain.Controls.Add(this.lblTitleCustomerDetails);
             this.panelSelectedBeneficiaryDetailsMain.Location = new System.Drawing.Point(411, 60);
             this.panelSelectedBeneficiaryDetailsMain.Name = "panelSelectedBeneficiaryDetailsMain";
-            this.panelSelectedBeneficiaryDetailsMain.Size = new System.Drawing.Size(399, 238);
+            this.panelSelectedBeneficiaryDetailsMain.Size = new System.Drawing.Size(812, 444);
             this.panelSelectedBeneficiaryDetailsMain.TabIndex = 105;
             // 
             // groupBoxCustomerIdentification
             // 
             this.groupBoxCustomerIdentification.BackColor = System.Drawing.Color.White;
+            this.groupBoxCustomerIdentification.Controls.Add(this.label1);
+            this.groupBoxCustomerIdentification.Controls.Add(this.label8);
             this.groupBoxCustomerIdentification.Controls.Add(this.panelCustomerIdentification);
             this.groupBoxCustomerIdentification.Controls.Add(this.label29);
             this.groupBoxCustomerIdentification.Controls.Add(this.label54);
-            this.groupBoxCustomerIdentification.Location = new System.Drawing.Point(7, 150);
+            this.groupBoxCustomerIdentification.Location = new System.Drawing.Point(7, 206);
             this.groupBoxCustomerIdentification.Name = "groupBoxCustomerIdentification";
-            this.groupBoxCustomerIdentification.Size = new System.Drawing.Size(386, 83);
+            this.groupBoxCustomerIdentification.Size = new System.Drawing.Size(386, 115);
             this.groupBoxCustomerIdentification.TabIndex = 109;
             this.groupBoxCustomerIdentification.TabStop = false;
             this.groupBoxCustomerIdentification.Text = "Customer Identification";
             // 
             // panelCustomerIdentification
             // 
+            this.panelCustomerIdentification.Controls.Add(this.dateCustomerIDSubmittedExpireDate);
+            this.panelCustomerIdentification.Controls.Add(this.dateCustomerIDSubmittedIssueDate);
             this.panelCustomerIdentification.Controls.Add(this.cboCustomerIDSubmitted);
             this.panelCustomerIdentification.Controls.Add(this.txtCustomerIDSubmittedNumber);
-            this.panelCustomerIdentification.Location = new System.Drawing.Point(129, 15);
+            this.panelCustomerIdentification.Location = new System.Drawing.Point(129, 12);
             this.panelCustomerIdentification.Name = "panelCustomerIdentification";
-            this.panelCustomerIdentification.Size = new System.Drawing.Size(249, 62);
+            this.panelCustomerIdentification.Size = new System.Drawing.Size(249, 99);
             this.panelCustomerIdentification.TabIndex = 110;
             // 
             // cboCustomerIDSubmitted
@@ -571,7 +618,7 @@
             this.cboCustomerIDSubmitted.BackColor = System.Drawing.Color.LightGoldenrodYellow;
             this.cboCustomerIDSubmitted.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboCustomerIDSubmitted.FormattingEnabled = true;
-            this.cboCustomerIDSubmitted.Location = new System.Drawing.Point(7, 7);
+            this.cboCustomerIDSubmitted.Location = new System.Drawing.Point(6, 7);
             this.cboCustomerIDSubmitted.MaxDropDownItems = 15;
             this.cboCustomerIDSubmitted.Name = "cboCustomerIDSubmitted";
             this.cboCustomerIDSubmitted.Size = new System.Drawing.Size(239, 21);
@@ -581,7 +628,7 @@
             // txtCustomerIDSubmittedNumber
             // 
             this.txtCustomerIDSubmittedNumber.BackColor = System.Drawing.Color.LightGoldenrodYellow;
-            this.txtCustomerIDSubmittedNumber.Location = new System.Drawing.Point(7, 34);
+            this.txtCustomerIDSubmittedNumber.Location = new System.Drawing.Point(6, 29);
             this.txtCustomerIDSubmittedNumber.Name = "txtCustomerIDSubmittedNumber";
             this.txtCustomerIDSubmittedNumber.Size = new System.Drawing.Size(239, 21);
             this.txtCustomerIDSubmittedNumber.TabIndex = 5;
@@ -603,7 +650,7 @@
             // label54
             // 
             this.label54.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label54.Location = new System.Drawing.Point(19, 51);
+            this.label54.Location = new System.Drawing.Point(19, 46);
             this.label54.Margin = new System.Windows.Forms.Padding(1);
             this.label54.Name = "label54";
             this.label54.Padding = new System.Windows.Forms.Padding(1);
@@ -615,6 +662,9 @@
             // groupBoxCustomerInformation
             // 
             this.groupBoxCustomerInformation.BackColor = System.Drawing.Color.White;
+            this.groupBoxCustomerInformation.Controls.Add(this.label26);
+            this.groupBoxCustomerInformation.Controls.Add(this.label28);
+            this.groupBoxCustomerInformation.Controls.Add(this.label30);
             this.groupBoxCustomerInformation.Controls.Add(this.label22);
             this.groupBoxCustomerInformation.Controls.Add(this.txtCustomerNumber);
             this.groupBoxCustomerInformation.Controls.Add(this.panelSelectedBeneficiaryDetails);
@@ -625,7 +675,7 @@
             this.groupBoxCustomerInformation.Margin = new System.Windows.Forms.Padding(1);
             this.groupBoxCustomerInformation.Name = "groupBoxCustomerInformation";
             this.groupBoxCustomerInformation.Padding = new System.Windows.Forms.Padding(1);
-            this.groupBoxCustomerInformation.Size = new System.Drawing.Size(386, 114);
+            this.groupBoxCustomerInformation.Size = new System.Drawing.Size(386, 170);
             this.groupBoxCustomerInformation.TabIndex = 1;
             this.groupBoxCustomerInformation.TabStop = false;
             this.groupBoxCustomerInformation.Text = "Customer Information";
@@ -658,12 +708,15 @@
             // panelSelectedBeneficiaryDetails
             // 
             this.panelSelectedBeneficiaryDetails.BackColor = System.Drawing.Color.Transparent;
+            this.panelSelectedBeneficiaryDetails.Controls.Add(this.txtMobileNo);
+            this.panelSelectedBeneficiaryDetails.Controls.Add(this.txtEmailAddress);
+            this.panelSelectedBeneficiaryDetails.Controls.Add(this.dateDateOfBirth);
             this.panelSelectedBeneficiaryDetails.Controls.Add(this.lblCustomerLastName);
             this.panelSelectedBeneficiaryDetails.Controls.Add(this.lblCustomerMiddleName);
             this.panelSelectedBeneficiaryDetails.Controls.Add(this.lblCustomerFirstName);
             this.panelSelectedBeneficiaryDetails.Location = new System.Drawing.Point(129, 38);
             this.panelSelectedBeneficiaryDetails.Name = "panelSelectedBeneficiaryDetails";
-            this.panelSelectedBeneficiaryDetails.Size = new System.Drawing.Size(249, 65);
+            this.panelSelectedBeneficiaryDetails.Size = new System.Drawing.Size(249, 130);
             this.panelSelectedBeneficiaryDetails.TabIndex = 4;
             // 
             // lblCustomerLastName
@@ -723,7 +776,7 @@
             // label72
             // 
             this.label72.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label72.Location = new System.Drawing.Point(19, 62);
+            this.label72.Location = new System.Drawing.Point(19, 61);
             this.label72.Margin = new System.Windows.Forms.Padding(1);
             this.label72.Name = "label72";
             this.label72.Padding = new System.Windows.Forms.Padding(1);
@@ -753,7 +806,7 @@
             this.lblTitleCustomerDetails.Location = new System.Drawing.Point(0, 0);
             this.lblTitleCustomerDetails.Margin = new System.Windows.Forms.Padding(0);
             this.lblTitleCustomerDetails.Name = "lblTitleCustomerDetails";
-            this.lblTitleCustomerDetails.Size = new System.Drawing.Size(397, 24);
+            this.lblTitleCustomerDetails.Size = new System.Drawing.Size(810, 24);
             this.lblTitleCustomerDetails.TabIndex = 0;
             this.lblTitleCustomerDetails.Text = "Customer Details";
             this.lblTitleCustomerDetails.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -764,7 +817,7 @@
             this.panelPayoutProcessing.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panelPayoutProcessing.Controls.Add(this.groupBoxPayoutProcessing);
             this.panelPayoutProcessing.Controls.Add(this.lblTitlePayoutProcessing);
-            this.panelPayoutProcessing.Location = new System.Drawing.Point(410, 304);
+            this.panelPayoutProcessing.Location = new System.Drawing.Point(399, 233);
             this.panelPayoutProcessing.Name = "panelPayoutProcessing";
             this.panelPayoutProcessing.Size = new System.Drawing.Size(400, 162);
             this.panelPayoutProcessing.TabIndex = 106;
@@ -858,7 +911,7 @@
             // 
             // progressBar1
             // 
-            this.progressBar1.Location = new System.Drawing.Point(410, 473);
+            this.progressBar1.Location = new System.Drawing.Point(399, 402);
             this.progressBar1.Name = "progressBar1";
             this.progressBar1.Size = new System.Drawing.Size(299, 31);
             this.progressBar1.TabIndex = 107;
@@ -880,7 +933,7 @@
             this.lblTitle.Margin = new System.Windows.Forms.Padding(0);
             this.lblTitle.Name = "lblTitle";
             this.lblTitle.Padding = new System.Windows.Forms.Padding(10, 0, 0, 0);
-            this.lblTitle.Size = new System.Drawing.Size(816, 57);
+            this.lblTitle.Size = new System.Drawing.Size(1223, 57);
             this.lblTitle.TabIndex = 0;
             this.lblTitle.Text = "Payout";
             this.lblTitle.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -895,7 +948,7 @@
             this.btnCloseForm.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCloseForm.Image = global::ChinaBankControlLibrary.images.cross;
             this.btnCloseForm.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnCloseForm.Location = new System.Drawing.Point(715, 473);
+            this.btnCloseForm.Location = new System.Drawing.Point(704, 402);
             this.btnCloseForm.Name = "btnCloseForm";
             this.btnCloseForm.Size = new System.Drawing.Size(95, 31);
             this.btnCloseForm.TabIndex = 100;
@@ -904,16 +957,384 @@
             this.btnCloseForm.UseVisualStyleBackColor = false;
             this.btnCloseForm.Click += new System.EventHandler(this.btnCloseForm_Click);
             // 
+            // label1
+            // 
+            this.label1.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(19, 68);
+            this.label1.Margin = new System.Windows.Forms.Padding(1);
+            this.label1.Name = "label1";
+            this.label1.Padding = new System.Windows.Forms.Padding(1);
+            this.label1.Size = new System.Drawing.Size(106, 15);
+            this.label1.TabIndex = 112;
+            this.label1.Text = "Issuance Date:";
+            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            // 
+            // label8
+            // 
+            this.label8.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.Location = new System.Drawing.Point(19, 90);
+            this.label8.Margin = new System.Windows.Forms.Padding(1);
+            this.label8.Name = "label8";
+            this.label8.Padding = new System.Windows.Forms.Padding(1);
+            this.label8.Size = new System.Drawing.Size(106, 15);
+            this.label8.TabIndex = 111;
+            this.label8.Text = "Expiration Date:";
+            this.label8.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            // 
+            // groupBox3
+            // 
+            this.groupBox3.Controls.Add(this.label19);
+            this.groupBox3.Controls.Add(this.label20);
+            this.groupBox3.Controls.Add(this.label15);
+            this.groupBox3.Controls.Add(this.panel4);
+            this.groupBox3.Controls.Add(this.label16);
+            this.groupBox3.Controls.Add(this.label17);
+            this.groupBox3.Controls.Add(this.label18);
+            this.groupBox3.Location = new System.Drawing.Point(400, 42);
+            this.groupBox3.Name = "groupBox3";
+            this.groupBox3.Size = new System.Drawing.Size(399, 185);
+            this.groupBox3.TabIndex = 111;
+            this.groupBox3.TabStop = false;
+            this.groupBox3.Text = "Address";
+            // 
+            // panel4
+            // 
+            this.panel4.Controls.Add(this.txtCountry);
+            this.panel4.Controls.Add(this.txtZipCode);
+            this.panel4.Controls.Add(this.txtProvince);
+            this.panel4.Controls.Add(this.txtTownCity);
+            this.panel4.Controls.Add(this.txtBarangay);
+            this.panel4.Controls.Add(this.txtStreet);
+            this.panel4.Location = new System.Drawing.Point(132, 18);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(261, 161);
+            this.panel4.TabIndex = 0;
+            // 
+            // label15
+            // 
+            this.label15.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label15.Location = new System.Drawing.Point(22, 78);
+            this.label15.Margin = new System.Windows.Forms.Padding(1);
+            this.label15.Name = "label15";
+            this.label15.Padding = new System.Windows.Forms.Padding(1);
+            this.label15.Size = new System.Drawing.Size(106, 15);
+            this.label15.TabIndex = 116;
+            this.label15.Text = "Town / City:";
+            this.label15.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            // 
+            // label16
+            // 
+            this.label16.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label16.Location = new System.Drawing.Point(22, 102);
+            this.label16.Margin = new System.Windows.Forms.Padding(1);
+            this.label16.Name = "label16";
+            this.label16.Padding = new System.Windows.Forms.Padding(1);
+            this.label16.Size = new System.Drawing.Size(106, 15);
+            this.label16.TabIndex = 115;
+            this.label16.Text = "Province:";
+            this.label16.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            // 
+            // label17
+            // 
+            this.label17.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label17.Location = new System.Drawing.Point(22, 30);
+            this.label17.Margin = new System.Windows.Forms.Padding(1);
+            this.label17.Name = "label17";
+            this.label17.Padding = new System.Windows.Forms.Padding(1);
+            this.label17.Size = new System.Drawing.Size(106, 15);
+            this.label17.TabIndex = 114;
+            this.label17.Text = "Street:";
+            this.label17.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            // 
+            // label18
+            // 
+            this.label18.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label18.Location = new System.Drawing.Point(22, 54);
+            this.label18.Margin = new System.Windows.Forms.Padding(1);
+            this.label18.Name = "label18";
+            this.label18.Padding = new System.Windows.Forms.Padding(1);
+            this.label18.Size = new System.Drawing.Size(106, 15);
+            this.label18.TabIndex = 113;
+            this.label18.Text = "Barangay:";
+            this.label18.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            // 
+            // label19
+            // 
+            this.label19.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label19.Location = new System.Drawing.Point(22, 126);
+            this.label19.Margin = new System.Windows.Forms.Padding(1);
+            this.label19.Name = "label19";
+            this.label19.Padding = new System.Windows.Forms.Padding(1);
+            this.label19.Size = new System.Drawing.Size(106, 15);
+            this.label19.TabIndex = 118;
+            this.label19.Text = "Zip Code:";
+            this.label19.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            // 
+            // label20
+            // 
+            this.label20.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label20.Location = new System.Drawing.Point(22, 150);
+            this.label20.Margin = new System.Windows.Forms.Padding(1);
+            this.label20.Name = "label20";
+            this.label20.Padding = new System.Windows.Forms.Padding(1);
+            this.label20.Size = new System.Drawing.Size(106, 15);
+            this.label20.TabIndex = 117;
+            this.label20.Text = "Country:";
+            this.label20.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            // 
+            // txtTownCity
+            // 
+            this.txtTownCity.BackColor = System.Drawing.Color.LightGoldenrodYellow;
+            this.txtTownCity.Enabled = false;
+            this.txtTownCity.Location = new System.Drawing.Point(11, 56);
+            this.txtTownCity.Name = "txtTownCity";
+            this.txtTownCity.Size = new System.Drawing.Size(239, 21);
+            this.txtTownCity.TabIndex = 10;
+            this.txtTownCity.Text = "Town / City";
+            // 
+            // txtBarangay
+            // 
+            this.txtBarangay.BackColor = System.Drawing.Color.LightGoldenrodYellow;
+            this.txtBarangay.Enabled = false;
+            this.txtBarangay.Location = new System.Drawing.Point(11, 32);
+            this.txtBarangay.Name = "txtBarangay";
+            this.txtBarangay.Size = new System.Drawing.Size(239, 21);
+            this.txtBarangay.TabIndex = 9;
+            this.txtBarangay.Text = "Barangay";
+            // 
+            // txtStreet
+            // 
+            this.txtStreet.BackColor = System.Drawing.Color.LightGoldenrodYellow;
+            this.txtStreet.Enabled = false;
+            this.txtStreet.Location = new System.Drawing.Point(11, 8);
+            this.txtStreet.Name = "txtStreet";
+            this.txtStreet.Size = new System.Drawing.Size(239, 21);
+            this.txtStreet.TabIndex = 8;
+            this.txtStreet.Text = "Street";
+            // 
+            // txtCountry
+            // 
+            this.txtCountry.BackColor = System.Drawing.Color.LightGoldenrodYellow;
+            this.txtCountry.Enabled = false;
+            this.txtCountry.Location = new System.Drawing.Point(11, 128);
+            this.txtCountry.Name = "txtCountry";
+            this.txtCountry.Size = new System.Drawing.Size(239, 21);
+            this.txtCountry.TabIndex = 13;
+            this.txtCountry.Text = "Country";
+            // 
+            // txtZipCode
+            // 
+            this.txtZipCode.BackColor = System.Drawing.Color.LightGoldenrodYellow;
+            this.txtZipCode.Enabled = false;
+            this.txtZipCode.Location = new System.Drawing.Point(11, 104);
+            this.txtZipCode.Name = "txtZipCode";
+            this.txtZipCode.Size = new System.Drawing.Size(239, 21);
+            this.txtZipCode.TabIndex = 12;
+            this.txtZipCode.Text = "Zip Code";
+            // 
+            // txtProvince
+            // 
+            this.txtProvince.BackColor = System.Drawing.Color.LightGoldenrodYellow;
+            this.txtProvince.Enabled = false;
+            this.txtProvince.Location = new System.Drawing.Point(11, 80);
+            this.txtProvince.Name = "txtProvince";
+            this.txtProvince.Size = new System.Drawing.Size(239, 21);
+            this.txtProvince.TabIndex = 11;
+            this.txtProvince.Text = "Province";
+            // 
+            // groupBox2
+            // 
+            this.groupBox2.BackColor = System.Drawing.Color.White;
+            this.groupBox2.Controls.Add(this.label9);
+            this.groupBox2.Controls.Add(this.label10);
+            this.groupBox2.Controls.Add(this.panel3);
+            this.groupBox2.Controls.Add(this.label11);
+            this.groupBox2.Controls.Add(this.label14);
+            this.groupBox2.Location = new System.Drawing.Point(7, 323);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Size = new System.Drawing.Size(386, 115);
+            this.groupBox2.TabIndex = 113;
+            this.groupBox2.TabStop = false;
+            this.groupBox2.Text = "Seconday Identification";
+            // 
+            // label9
+            // 
+            this.label9.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label9.Location = new System.Drawing.Point(19, 68);
+            this.label9.Margin = new System.Windows.Forms.Padding(1);
+            this.label9.Name = "label9";
+            this.label9.Padding = new System.Windows.Forms.Padding(1);
+            this.label9.Size = new System.Drawing.Size(106, 15);
+            this.label9.TabIndex = 112;
+            this.label9.Text = "Issuance Date:";
+            this.label9.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            // 
+            // label10
+            // 
+            this.label10.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label10.Location = new System.Drawing.Point(19, 90);
+            this.label10.Margin = new System.Windows.Forms.Padding(1);
+            this.label10.Name = "label10";
+            this.label10.Padding = new System.Windows.Forms.Padding(1);
+            this.label10.Size = new System.Drawing.Size(106, 15);
+            this.label10.TabIndex = 111;
+            this.label10.Text = "Expiration Date:";
+            this.label10.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            // 
+            // panel3
+            // 
+            this.panel3.Controls.Add(this.dateCustomerIDSecondaryExpireDate);
+            this.panel3.Controls.Add(this.dateCustomerIDSecondaryIssueDate);
+            this.panel3.Controls.Add(this.cboSecondaryIDSubmitted);
+            this.panel3.Controls.Add(this.txtCustomerIDSecondayNumber);
+            this.panel3.Location = new System.Drawing.Point(129, 12);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(249, 99);
+            this.panel3.TabIndex = 110;
+            // 
+            // cboSecondaryIDSubmitted
+            // 
+            this.cboSecondaryIDSubmitted.BackColor = System.Drawing.Color.LightGoldenrodYellow;
+            this.cboSecondaryIDSubmitted.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cboSecondaryIDSubmitted.FormattingEnabled = true;
+            this.cboSecondaryIDSubmitted.Location = new System.Drawing.Point(5, 7);
+            this.cboSecondaryIDSubmitted.MaxDropDownItems = 15;
+            this.cboSecondaryIDSubmitted.Name = "cboSecondaryIDSubmitted";
+            this.cboSecondaryIDSubmitted.Size = new System.Drawing.Size(239, 21);
+            this.cboSecondaryIDSubmitted.TabIndex = 4;
+            this.cboSecondaryIDSubmitted.SelectedIndexChanged += new System.EventHandler(this.cboSecondaryIDSubmitted_SelectedIndexChanged);
+            // 
+            // txtCustomerIDSecondayNumber
+            // 
+            this.txtCustomerIDSecondayNumber.BackColor = System.Drawing.Color.LightGoldenrodYellow;
+            this.txtCustomerIDSecondayNumber.Location = new System.Drawing.Point(5, 29);
+            this.txtCustomerIDSecondayNumber.Name = "txtCustomerIDSecondayNumber";
+            this.txtCustomerIDSecondayNumber.Size = new System.Drawing.Size(239, 21);
+            this.txtCustomerIDSecondayNumber.TabIndex = 5;
+            this.txtCustomerIDSecondayNumber.Text = "ID Number";
+            // 
+            // label11
+            // 
+            this.label11.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label11.Location = new System.Drawing.Point(19, 24);
+            this.label11.Margin = new System.Windows.Forms.Padding(1);
+            this.label11.Name = "label11";
+            this.label11.Padding = new System.Windows.Forms.Padding(1);
+            this.label11.Size = new System.Drawing.Size(106, 15);
+            this.label11.TabIndex = 109;
+            this.label11.Text = "ID Submitted:";
+            this.label11.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            // 
+            // label14
+            // 
+            this.label14.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label14.Location = new System.Drawing.Point(19, 46);
+            this.label14.Margin = new System.Windows.Forms.Padding(1);
+            this.label14.Name = "label14";
+            this.label14.Padding = new System.Windows.Forms.Padding(1);
+            this.label14.Size = new System.Drawing.Size(106, 15);
+            this.label14.TabIndex = 14;
+            this.label14.Text = "ID Number:";
+            this.label14.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            // 
+            // label26
+            // 
+            this.label26.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label26.Location = new System.Drawing.Point(19, 145);
+            this.label26.Margin = new System.Windows.Forms.Padding(1);
+            this.label26.Name = "label26";
+            this.label26.Padding = new System.Windows.Forms.Padding(1);
+            this.label26.Size = new System.Drawing.Size(106, 16);
+            this.label26.TabIndex = 108;
+            this.label26.Text = "Mobile No.:";
+            this.label26.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            // 
+            // label28
+            // 
+            this.label28.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label28.Location = new System.Drawing.Point(19, 123);
+            this.label28.Margin = new System.Windows.Forms.Padding(1);
+            this.label28.Name = "label28";
+            this.label28.Padding = new System.Windows.Forms.Padding(1);
+            this.label28.Size = new System.Drawing.Size(106, 15);
+            this.label28.TabIndex = 107;
+            this.label28.Text = "Email Address";
+            this.label28.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            // 
+            // label30
+            // 
+            this.label30.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label30.Location = new System.Drawing.Point(19, 102);
+            this.label30.Margin = new System.Windows.Forms.Padding(1);
+            this.label30.Name = "label30";
+            this.label30.Padding = new System.Windows.Forms.Padding(1);
+            this.label30.Size = new System.Drawing.Size(106, 14);
+            this.label30.TabIndex = 106;
+            this.label30.Text = "Date of Birth:";
+            this.label30.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            // 
+            // dateDateOfBirth
+            // 
+            this.dateDateOfBirth.Location = new System.Drawing.Point(7, 62);
+            this.dateDateOfBirth.Name = "dateDateOfBirth";
+            this.dateDateOfBirth.Size = new System.Drawing.Size(237, 21);
+            this.dateDateOfBirth.TabIndex = 24;
+            // 
+            // txtEmailAddress
+            // 
+            this.txtEmailAddress.BackColor = System.Drawing.Color.LightGoldenrodYellow;
+            this.txtEmailAddress.Font = new System.Drawing.Font("Tahoma", 8.25F);
+            this.txtEmailAddress.Location = new System.Drawing.Point(7, 84);
+            this.txtEmailAddress.Name = "txtEmailAddress";
+            this.txtEmailAddress.Size = new System.Drawing.Size(239, 21);
+            this.txtEmailAddress.TabIndex = 25;
+            this.txtEmailAddress.Text = "Email Address";
+            // 
+            // txtMobileNo
+            // 
+            this.txtMobileNo.BackColor = System.Drawing.Color.LightGoldenrodYellow;
+            this.txtMobileNo.Font = new System.Drawing.Font("Tahoma", 8.25F);
+            this.txtMobileNo.Location = new System.Drawing.Point(8, 106);
+            this.txtMobileNo.Name = "txtMobileNo";
+            this.txtMobileNo.Size = new System.Drawing.Size(239, 21);
+            this.txtMobileNo.TabIndex = 26;
+            this.txtMobileNo.Text = "Mobile No.";
+            // 
+            // dateCustomerIDSubmittedIssueDate
+            // 
+            this.dateCustomerIDSubmittedIssueDate.Location = new System.Drawing.Point(6, 51);
+            this.dateCustomerIDSubmittedIssueDate.Name = "dateCustomerIDSubmittedIssueDate";
+            this.dateCustomerIDSubmittedIssueDate.Size = new System.Drawing.Size(237, 21);
+            this.dateCustomerIDSubmittedIssueDate.TabIndex = 25;
+            // 
+            // dateCustomerIDSubmittedExpireDate
+            // 
+            this.dateCustomerIDSubmittedExpireDate.Location = new System.Drawing.Point(6, 73);
+            this.dateCustomerIDSubmittedExpireDate.Name = "dateCustomerIDSubmittedExpireDate";
+            this.dateCustomerIDSubmittedExpireDate.Size = new System.Drawing.Size(237, 21);
+            this.dateCustomerIDSubmittedExpireDate.TabIndex = 26;
+            // 
+            // dateCustomerIDSecondaryExpireDate
+            // 
+            this.dateCustomerIDSecondaryExpireDate.Location = new System.Drawing.Point(5, 73);
+            this.dateCustomerIDSecondaryExpireDate.Name = "dateCustomerIDSecondaryExpireDate";
+            this.dateCustomerIDSecondaryExpireDate.Size = new System.Drawing.Size(237, 21);
+            this.dateCustomerIDSecondaryExpireDate.TabIndex = 28;
+            // 
+            // dateCustomerIDSecondaryIssueDate
+            // 
+            this.dateCustomerIDSecondaryIssueDate.Location = new System.Drawing.Point(5, 51);
+            this.dateCustomerIDSecondaryIssueDate.Name = "dateCustomerIDSecondaryIssueDate";
+            this.dateCustomerIDSecondaryIssueDate.Size = new System.Drawing.Size(237, 21);
+            this.dateCustomerIDSecondaryIssueDate.TabIndex = 27;
+            // 
             // PayoutForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.ClientSize = new System.Drawing.Size(816, 509);
+            this.ClientSize = new System.Drawing.Size(1223, 511);
             this.ControlBox = false;
-            this.Controls.Add(this.btnCloseForm);
-            this.Controls.Add(this.progressBar1);
-            this.Controls.Add(this.panelPayoutProcessing);
             this.Controls.Add(this.panelSelectedBeneficiaryDetailsMain);
             this.Controls.Add(this.panelPayoutDetails);
             this.Controls.Add(this.lblTitle);
@@ -942,8 +1363,15 @@
             this.groupBoxCustomerInformation.ResumeLayout(false);
             this.groupBoxCustomerInformation.PerformLayout();
             this.panelSelectedBeneficiaryDetails.ResumeLayout(false);
+            this.panelSelectedBeneficiaryDetails.PerformLayout();
             this.panelPayoutProcessing.ResumeLayout(false);
             this.groupBoxPayoutProcessing.ResumeLayout(false);
+            this.groupBox3.ResumeLayout(false);
+            this.panel4.ResumeLayout(false);
+            this.panel4.PerformLayout();
+            this.groupBox2.ResumeLayout(false);
+            this.panel3.ResumeLayout(false);
+            this.panel3.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -1013,5 +1441,39 @@
         private System.Windows.Forms.Label label6;
         private System.Drawing.Printing.PrintDocument printDocument1;
         private System.Windows.Forms.ComboBox cboCustomerIDSubmitted;
+        private System.Windows.Forms.GroupBox groupBox2;
+        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.Panel panel3;
+        private System.Windows.Forms.ComboBox cboSecondaryIDSubmitted;
+        private System.Windows.Forms.TextBox txtCustomerIDSecondayNumber;
+        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.Label label14;
+        private System.Windows.Forms.GroupBox groupBox3;
+        private System.Windows.Forms.Label label19;
+        private System.Windows.Forms.Label label20;
+        private System.Windows.Forms.Label label15;
+        private System.Windows.Forms.Panel panel4;
+        private System.Windows.Forms.TextBox txtCountry;
+        private System.Windows.Forms.TextBox txtZipCode;
+        private System.Windows.Forms.TextBox txtProvince;
+        private System.Windows.Forms.TextBox txtTownCity;
+        private System.Windows.Forms.TextBox txtBarangay;
+        private System.Windows.Forms.TextBox txtStreet;
+        private System.Windows.Forms.Label label16;
+        private System.Windows.Forms.Label label17;
+        private System.Windows.Forms.Label label18;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Label label26;
+        private System.Windows.Forms.Label label28;
+        private System.Windows.Forms.Label label30;
+        private System.Windows.Forms.TextBox txtMobileNo;
+        private System.Windows.Forms.TextBox txtEmailAddress;
+        private System.Windows.Forms.DateTimePicker dateDateOfBirth;
+        private System.Windows.Forms.DateTimePicker dateCustomerIDSubmittedExpireDate;
+        private System.Windows.Forms.DateTimePicker dateCustomerIDSubmittedIssueDate;
+        private System.Windows.Forms.DateTimePicker dateCustomerIDSecondaryExpireDate;
+        private System.Windows.Forms.DateTimePicker dateCustomerIDSecondaryIssueDate;
     }
 }

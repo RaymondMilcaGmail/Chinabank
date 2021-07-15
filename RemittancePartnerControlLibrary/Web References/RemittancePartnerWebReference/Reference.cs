@@ -23,7 +23,7 @@ namespace ChinaBankControlLibrary.RemittancePartnerWebReference {
     
     
     /// <remarks/>
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.7.3190.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.8.3752.0")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.ComponentModel.DesignerCategoryAttribute("code")]
     [System.Web.Services.WebServiceBindingAttribute(Name="RemittancePartnerWebServiceSoap", Namespace="http://pjlhuillier.org/remittance/partner/nybp")]
@@ -39,7 +39,7 @@ namespace ChinaBankControlLibrary.RemittancePartnerWebReference {
         
         /// <remarks/>
         public RemittancePartnerWebService() {
-            this.Url = global::ChinaBankControlLibrary.Properties.Settings.Default.RemittancePartnerControlLibrary_RemittancePartnerWebReference_RemittancePartnerWebService;
+            this.Url = global::ChinaBankControlLibrary.Properties.Settings.Default.ChinaBankControlLibrary_RemittancePartnerWebReference_RemittancePartnerWebService;
             if ((this.IsLocalFileSystemWebService(this.Url) == true)) {
                 this.UseDefaultCredentials = true;
                 this.useDefaultCredentialsSetExplicitly = false;
@@ -190,7 +190,7 @@ namespace ChinaBankControlLibrary.RemittancePartnerWebReference {
     }
     
     /// <remarks/>
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Xml", "4.7.3190.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Xml", "4.8.3752.0")]
     [System.SerializableAttribute()]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.ComponentModel.DesignerCategoryAttribute("code")]
@@ -210,6 +210,40 @@ namespace ChinaBankControlLibrary.RemittancePartnerWebReference {
         private string countryField;
         
         private CebuanaCustomerID[] registeredIDsField;
+        
+        private CebuanaCustomerID[] secondaryIDsField;
+        
+        private string pickupDateField;
+        
+        private string reasonRemarksField;
+        
+        private string primaryIDIssuanceDateField;
+        
+        private string primaryIDExpirationdateField;
+        
+        private string secondaryIDCodeField;
+        
+        private string secondaryIDTypeField;
+        
+        private string secondaryIDNumberField;
+        
+        private string secondaryIDIssuanceDateField;
+        
+        private string secondaryIDExpirationdateField;
+        
+        private string receiverStreetField;
+        
+        private string receiverBarangayField;
+        
+        private string receiverProvinceField;
+        
+        private string receiverZipCodeField;
+        
+        private int mobileNumberField;
+        
+        private string emailAddressField;
+        
+        private string dateOfBirthField;
         
         /// <remarks/>
         public string CustomerNumber {
@@ -280,10 +314,180 @@ namespace ChinaBankControlLibrary.RemittancePartnerWebReference {
                 this.registeredIDsField = value;
             }
         }
+        
+        /// <remarks/>
+        public CebuanaCustomerID[] SecondaryIDs {
+            get {
+                return this.secondaryIDsField;
+            }
+            set {
+                this.secondaryIDsField = value;
+            }
+        }
+        
+        /// <remarks/>
+        public string PickupDate {
+            get {
+                return this.pickupDateField;
+            }
+            set {
+                this.pickupDateField = value;
+            }
+        }
+        
+        /// <remarks/>
+        public string ReasonRemarks {
+            get {
+                return this.reasonRemarksField;
+            }
+            set {
+                this.reasonRemarksField = value;
+            }
+        }
+        
+        /// <remarks/>
+        public string PrimaryIDIssuanceDate {
+            get {
+                return this.primaryIDIssuanceDateField;
+            }
+            set {
+                this.primaryIDIssuanceDateField = value;
+            }
+        }
+        
+        /// <remarks/>
+        public string PrimaryIDExpirationdate {
+            get {
+                return this.primaryIDExpirationdateField;
+            }
+            set {
+                this.primaryIDExpirationdateField = value;
+            }
+        }
+        
+        /// <remarks/>
+        public string SecondaryIDCode {
+            get {
+                return this.secondaryIDCodeField;
+            }
+            set {
+                this.secondaryIDCodeField = value;
+            }
+        }
+        
+        /// <remarks/>
+        public string SecondaryIDType {
+            get {
+                return this.secondaryIDTypeField;
+            }
+            set {
+                this.secondaryIDTypeField = value;
+            }
+        }
+        
+        /// <remarks/>
+        public string SecondaryIDNumber {
+            get {
+                return this.secondaryIDNumberField;
+            }
+            set {
+                this.secondaryIDNumberField = value;
+            }
+        }
+        
+        /// <remarks/>
+        public string SecondaryIDIssuanceDate {
+            get {
+                return this.secondaryIDIssuanceDateField;
+            }
+            set {
+                this.secondaryIDIssuanceDateField = value;
+            }
+        }
+        
+        /// <remarks/>
+        public string SecondaryIDExpirationdate {
+            get {
+                return this.secondaryIDExpirationdateField;
+            }
+            set {
+                this.secondaryIDExpirationdateField = value;
+            }
+        }
+        
+        /// <remarks/>
+        public string ReceiverStreet {
+            get {
+                return this.receiverStreetField;
+            }
+            set {
+                this.receiverStreetField = value;
+            }
+        }
+        
+        /// <remarks/>
+        public string ReceiverBarangay {
+            get {
+                return this.receiverBarangayField;
+            }
+            set {
+                this.receiverBarangayField = value;
+            }
+        }
+        
+        /// <remarks/>
+        public string ReceiverProvince {
+            get {
+                return this.receiverProvinceField;
+            }
+            set {
+                this.receiverProvinceField = value;
+            }
+        }
+        
+        /// <remarks/>
+        public string ReceiverZipCode {
+            get {
+                return this.receiverZipCodeField;
+            }
+            set {
+                this.receiverZipCodeField = value;
+            }
+        }
+        
+        /// <remarks/>
+        public int MobileNumber {
+            get {
+                return this.mobileNumberField;
+            }
+            set {
+                this.mobileNumberField = value;
+            }
+        }
+        
+        /// <remarks/>
+        public string EmailAddress {
+            get {
+                return this.emailAddressField;
+            }
+            set {
+                this.emailAddressField = value;
+            }
+        }
+        
+        /// <remarks/>
+        public string DateOfBirth {
+            get {
+                return this.dateOfBirthField;
+            }
+            set {
+                this.dateOfBirthField = value;
+            }
+        }
     }
     
     /// <remarks/>
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Xml", "4.7.3190.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Xml", "4.8.3752.0")]
     [System.SerializableAttribute()]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.ComponentModel.DesignerCategoryAttribute("code")]
@@ -316,7 +520,7 @@ namespace ChinaBankControlLibrary.RemittancePartnerWebReference {
     }
     
     /// <remarks/>
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Xml", "4.7.3190.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Xml", "4.8.3752.0")]
     [System.SerializableAttribute()]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.ComponentModel.DesignerCategoryAttribute("code")]
@@ -373,7 +577,7 @@ namespace ChinaBankControlLibrary.RemittancePartnerWebReference {
     }
     
     /// <remarks/>
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Xml", "4.7.3190.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Xml", "4.8.3752.0")]
     [System.SerializableAttribute()]
     [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://pjlhuillier.org/remittance/partner/nybp")]
     public enum PayoutTransactionResultCode {
@@ -395,7 +599,7 @@ namespace ChinaBankControlLibrary.RemittancePartnerWebReference {
     }
     
     /// <remarks/>
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Xml", "4.7.3190.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Xml", "4.8.3752.0")]
     [System.SerializableAttribute()]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.ComponentModel.DesignerCategoryAttribute("code")]
@@ -437,6 +641,38 @@ namespace ChinaBankControlLibrary.RemittancePartnerWebReference {
         private string receiverCountryField;
         
         private string sessionIDField;
+        
+        private string pickupDateField;
+        
+        private string reasonRemarksField;
+        
+        private string primaryIDIssuanceDateField;
+        
+        private string primaryIDExpirationdateField;
+        
+        private string secondaryIDCodeField;
+        
+        private string secondaryIDTypeField;
+        
+        private string secondaryIDNumberField;
+        
+        private string secondaryIDIssuanceDateField;
+        
+        private string secondaryIDExpirationdateField;
+        
+        private string receiverStreetField;
+        
+        private string receiverBarangayField;
+        
+        private string receiverProvinceField;
+        
+        private string receiverZipCodeField;
+        
+        private int mobileNumberField;
+        
+        private string emailAddressField;
+        
+        private string dateOfBirthField;
         
         /// <remarks/>
         public CebuanaBranchInformation CebuanaBranchInformation {
@@ -617,10 +853,170 @@ namespace ChinaBankControlLibrary.RemittancePartnerWebReference {
                 this.sessionIDField = value;
             }
         }
+        
+        /// <remarks/>
+        public string PickupDate {
+            get {
+                return this.pickupDateField;
+            }
+            set {
+                this.pickupDateField = value;
+            }
+        }
+        
+        /// <remarks/>
+        public string ReasonRemarks {
+            get {
+                return this.reasonRemarksField;
+            }
+            set {
+                this.reasonRemarksField = value;
+            }
+        }
+        
+        /// <remarks/>
+        public string PrimaryIDIssuanceDate {
+            get {
+                return this.primaryIDIssuanceDateField;
+            }
+            set {
+                this.primaryIDIssuanceDateField = value;
+            }
+        }
+        
+        /// <remarks/>
+        public string PrimaryIDExpirationdate {
+            get {
+                return this.primaryIDExpirationdateField;
+            }
+            set {
+                this.primaryIDExpirationdateField = value;
+            }
+        }
+        
+        /// <remarks/>
+        public string SecondaryIDCode {
+            get {
+                return this.secondaryIDCodeField;
+            }
+            set {
+                this.secondaryIDCodeField = value;
+            }
+        }
+        
+        /// <remarks/>
+        public string SecondaryIDType {
+            get {
+                return this.secondaryIDTypeField;
+            }
+            set {
+                this.secondaryIDTypeField = value;
+            }
+        }
+        
+        /// <remarks/>
+        public string SecondaryIDNumber {
+            get {
+                return this.secondaryIDNumberField;
+            }
+            set {
+                this.secondaryIDNumberField = value;
+            }
+        }
+        
+        /// <remarks/>
+        public string SecondaryIDIssuanceDate {
+            get {
+                return this.secondaryIDIssuanceDateField;
+            }
+            set {
+                this.secondaryIDIssuanceDateField = value;
+            }
+        }
+        
+        /// <remarks/>
+        public string SecondaryIDExpirationdate {
+            get {
+                return this.secondaryIDExpirationdateField;
+            }
+            set {
+                this.secondaryIDExpirationdateField = value;
+            }
+        }
+        
+        /// <remarks/>
+        public string ReceiverStreet {
+            get {
+                return this.receiverStreetField;
+            }
+            set {
+                this.receiverStreetField = value;
+            }
+        }
+        
+        /// <remarks/>
+        public string ReceiverBarangay {
+            get {
+                return this.receiverBarangayField;
+            }
+            set {
+                this.receiverBarangayField = value;
+            }
+        }
+        
+        /// <remarks/>
+        public string ReceiverProvince {
+            get {
+                return this.receiverProvinceField;
+            }
+            set {
+                this.receiverProvinceField = value;
+            }
+        }
+        
+        /// <remarks/>
+        public string ReceiverZipCode {
+            get {
+                return this.receiverZipCodeField;
+            }
+            set {
+                this.receiverZipCodeField = value;
+            }
+        }
+        
+        /// <remarks/>
+        public int MobileNumber {
+            get {
+                return this.mobileNumberField;
+            }
+            set {
+                this.mobileNumberField = value;
+            }
+        }
+        
+        /// <remarks/>
+        public string EmailAddress {
+            get {
+                return this.emailAddressField;
+            }
+            set {
+                this.emailAddressField = value;
+            }
+        }
+        
+        /// <remarks/>
+        public string DateOfBirth {
+            get {
+                return this.dateOfBirthField;
+            }
+            set {
+                this.dateOfBirthField = value;
+            }
+        }
     }
     
     /// <remarks/>
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Xml", "4.7.3190.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Xml", "4.8.3752.0")]
     [System.SerializableAttribute()]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.ComponentModel.DesignerCategoryAttribute("code")]
@@ -713,7 +1109,7 @@ namespace ChinaBankControlLibrary.RemittancePartnerWebReference {
     }
     
     /// <remarks/>
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Xml", "4.7.3190.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Xml", "4.8.3752.0")]
     [System.SerializableAttribute()]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.ComponentModel.DesignerCategoryAttribute("code")]
@@ -890,7 +1286,7 @@ namespace ChinaBankControlLibrary.RemittancePartnerWebReference {
     }
     
     /// <remarks/>
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Xml", "4.7.3190.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Xml", "4.8.3752.0")]
     [System.SerializableAttribute()]
     [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://pjlhuillier.org/remittance/partner/nybp")]
     public enum LookupTransactionResultCode {
@@ -912,7 +1308,7 @@ namespace ChinaBankControlLibrary.RemittancePartnerWebReference {
     }
     
     /// <remarks/>
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Xml", "4.7.3190.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Xml", "4.8.3752.0")]
     [System.SerializableAttribute()]
     [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://pjlhuillier.org/remittance/partner/nybp")]
     public enum TransactionStatus {
@@ -937,7 +1333,7 @@ namespace ChinaBankControlLibrary.RemittancePartnerWebReference {
     }
     
     /// <remarks/>
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Xml", "4.7.3190.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Xml", "4.8.3752.0")]
     [System.SerializableAttribute()]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.ComponentModel.DesignerCategoryAttribute("code")]
@@ -970,15 +1366,15 @@ namespace ChinaBankControlLibrary.RemittancePartnerWebReference {
     }
     
     /// <remarks/>
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.7.3190.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.8.3752.0")]
     public delegate void ExposeProxyClassesCompletedEventHandler(object sender, System.ComponentModel.AsyncCompletedEventArgs e);
     
     /// <remarks/>
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.7.3190.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.8.3752.0")]
     public delegate void RemittancePartnerLookupCompletedEventHandler(object sender, RemittancePartnerLookupCompletedEventArgs e);
     
     /// <remarks/>
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.7.3190.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.8.3752.0")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.ComponentModel.DesignerCategoryAttribute("code")]
     public partial class RemittancePartnerLookupCompletedEventArgs : System.ComponentModel.AsyncCompletedEventArgs {
@@ -1000,11 +1396,11 @@ namespace ChinaBankControlLibrary.RemittancePartnerWebReference {
     }
     
     /// <remarks/>
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.7.3190.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.8.3752.0")]
     public delegate void RemittancePartnerPayoutCompletedEventHandler(object sender, RemittancePartnerPayoutCompletedEventArgs e);
     
     /// <remarks/>
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.7.3190.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Web.Services", "4.8.3752.0")]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.ComponentModel.DesignerCategoryAttribute("code")]
     public partial class RemittancePartnerPayoutCompletedEventArgs : System.ComponentModel.AsyncCompletedEventArgs {

@@ -1,5 +1,6 @@
 ﻿using System;
-using ChinaBankWebReference;
+//using ChinaBankWebReference;
+using Mockcarnelian;
 /// <summary>
 /// Represents an instance of a LookupTransactionResult class
 /// </summary>

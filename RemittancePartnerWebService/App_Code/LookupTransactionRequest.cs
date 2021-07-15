@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Net;
 using System.Web.Services.Protocols;
-using ChinaBankWebReference;
+//using ChinaBankWebReference;
+using Mockcarnelian;
 
 /// <summary>
 /// Represents an instance of a LookupTransactionRequest class

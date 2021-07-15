@@ -344,7 +344,14 @@ namespace ChinaBankControlLibrary
                     cebuanaCustomerInformation.City = "Metro Manila";
                     //customerIDTypesString = Convert.ToString("COMPANY ID~BARANGAY ID~MEMBERSHIP ID~TEST ID").Trim();
                     //customerIDNumbersString = Convert.ToString("000000~111111~000000~333333~").Trim();
+
+                    cebuanaCustomerInformation.ReceiverStreet = "Tondo North";
+                    cebuanaCustomerInformation.ReceiverBarangay = "Tondo";
+                    cebuanaCustomerInformation.ReceiverZipCode = "1013";
+                    cebuanaCustomerInformation.ReceiverProvince = "Manila";
+
                     cebuanaCustomerInformation.Country = "PH";
+
 #else
                     cebuanaCustomerInformation.CustomerNumber = CustomerInformation.CustomerNumber;
                     cebuanaCustomerInformation.LastName = CustomerInformation.LastName;
@@ -353,6 +360,13 @@ namespace ChinaBankControlLibrary
                     cebuanaCustomerInformation.City = CustomerInformation.AddressTownCity;
                     //customerIDTypesString = Convert.ToString(CustomerInformation.PresentedIDType).Trim();
                     //customerIDNumbersString = Convert.ToString(CustomerInformation.PresentedIDNumber).Trim();
+
+                    
+                    cebuanaCustomerInformation.ReceiverStreet = CustomerInformation.ReceiverStreet;
+                    cebuanaCustomerInformation.ReceiverBarangay = CustomerInformation.ReceiverBarangay;
+                    cebuanaCustomerInformation.ReceiverZipCode = CustomerInformation.ReceiverZipCode;
+                    cebuanaCustomerInformation.ReceiverProvince = CustomerInformation.ReceiverProvince;
+
                     cebuanaCustomerInformation.Country = "PH";
 #endif
                     //if (string.IsNullOrEmpty(customerIDTypesString) || string.IsNullOrEmpty(customerIDNumbersString))
@@ -424,6 +438,17 @@ namespace ChinaBankControlLibrary
                 lblCustomerLastName.Text = _cebuanaCustomerInformation.LastName;
                 lblCustomerFirstName.Text = _cebuanaCustomerInformation.FirstName;
                 lblCustomerMiddleName.Text = _cebuanaCustomerInformation.MiddleName;
+
+                txtStreet.Text = _cebuanaCustomerInformation.ReceiverStreet;
+                txtBarangay.Text = _cebuanaCustomerInformation.ReceiverBarangay;
+                txtProvince.Text = _cebuanaCustomerInformation.ReceiverProvince;
+                txtTownCity.Text = _cebuanaCustomerInformation.City;
+                txtZipCode.Text = _cebuanaCustomerInformation.ReceiverZipCode;
+                txtCountry.Text = _cebuanaCustomerInformation.Country;
+
+                txtEmailAddress.Text = _cebuanaCustomerInformation.EmailAddress;
+                txtMobileNo.Text = _cebuanaCustomerInformation.MobileNumber.ToString();
+                dateDateOfBirth.Value = DateTime.Parse(_cebuanaCustomerInformation.DateOfBirth);
 
                 //try
                 //{
@@ -499,6 +524,20 @@ namespace ChinaBankControlLibrary
             payoutTransactionRequest.ReceiverIDNumber = txtCustomerIDSubmittedNumber.Text;
             payoutTransactionRequest.ReceiverCity = _cebuanaCustomerInformation.City;
             payoutTransactionRequest.ReceiverCountry = _cebuanaCustomerInformation.Country;
+
+            payoutTransactionRequest.PrimaryIDIssuanceDate = dateCustomerIDSubmittedIssueDate.Text;
+            payoutTransactionRequest.PrimaryIDExpirationdate = dateCustomerIDSubmittedIssueDate.Text;
+            payoutTransactionRequest.SecondaryIDCode = _cebuanaCustomerIDs[cboSecondaryIDSubmitted.SelectedIndex].IDCode;
+            payoutTransactionRequest.SecondaryIDType = _cebuanaCustomerIDs[cboSecondaryIDSubmitted.SelectedIndex].IDDescription;
+            payoutTransactionRequest.SecondaryIDIssuanceDate = dateCustomerIDSubmittedIssueDate.Text;
+            payoutTransactionRequest.SecondaryIDExpirationdate = dateCustomerIDSubmittedIssueDate.Text;
+            payoutTransactionRequest.ReceiverStreet = _cebuanaCustomerInformation.ReceiverStreet;
+            payoutTransactionRequest.ReceiverBarangay = _cebuanaCustomerInformation.ReceiverBarangay;
+            payoutTransactionRequest.ReceiverProvince = _cebuanaCustomerInformation.ReceiverProvince;
+            payoutTransactionRequest.ReceiverZipCode = _cebuanaCustomerInformation.ReceiverZipCode;
+            payoutTransactionRequest.EmailAddress = txtEmailAddress.Text;
+            payoutTransactionRequest.MobileNumber = int.Parse(txtMobileNo.Text);
+            payoutTransactionRequest.DateOfBirth = dateDateOfBirth.Text;
 
             payoutTransactionRequest.SessionID = _remittancePartnerLookupTransaction.LookupTransactionResult.SessionID;
             
@@ -977,5 +1016,25 @@ namespace ChinaBankControlLibrary
 #endif
         }
         #endregion
+
+        private void cboSecondaryIDSubmitted_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (cboSecondaryIDSubmitted.SelectedIndex > -1
+               && txtCustomerIDSecondayNumber.Text.Trim() != string.Empty
+               )
+            {
+                //txtCustomerIDSubmittedNumber.Text = _cebuanaCustomerInformation.RegisteredIDs[cboCustomerIDSubmitted.SelectedIndex].IDNumber;
+                Utils.ToggleControlEnabledState(true, _inputProcessingControls);
+                lblProcessingStatus.Text = "Click Process Payout to payout transaction.";
+                lblProcessingStatus.BackColor = Color.LightGreen;
+            }
+            else
+            {
+                Utils.ToggleControlEnabledState(false, _inputProcessingControls);
+                txtCustomerIDSecondayNumber.Text = string.Empty;
+                lblProcessingStatus.Text = "Please enter customer validation details.";
+                lblProcessingStatus.BackColor = Color.PaleGoldenrod;
+            }
+        }
     }
 }

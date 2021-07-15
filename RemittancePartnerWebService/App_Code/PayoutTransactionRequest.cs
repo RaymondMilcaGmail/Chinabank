@@ -5,7 +5,8 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Web;
 using System.Diagnostics;
-using ChinaBankWebReference;
+//using ChinaBankWebReference;
+using Mockcarnelian;
 
 /// <summary>
 /// Represents an instance of a PayoutTransactionRequest class
