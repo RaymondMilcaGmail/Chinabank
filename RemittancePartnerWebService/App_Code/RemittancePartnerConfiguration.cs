@@ -115,6 +115,22 @@ public class RemittancePartnerConfiguration
         return partnerIDType;
     }
 
+    public static string GetIDMap(string idType)
+    {
+        string partnerIDDesc;
+        idType = idType.Trim().ToUpper();
+
+        if (ConfigurationManager.AppSettings["ID_" + idType] != null)
+        {
+            partnerIDDesc = ConfigurationManager.AppSettings[idType];
+        }
+        else
+        {
+            partnerIDDesc = string.Empty;
+        }
+
+        return partnerIDDesc;
+    }
     public static string Username
     {
         get { return ConfigurationManager.AppSettings["Username"] ?? string.Empty; }

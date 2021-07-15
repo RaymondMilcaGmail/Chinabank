@@ -56,6 +56,22 @@ public class PayoutTransactionRequest
     //private string _idType;
     private string _sessionID;
 
+    private string _pickupDate;
+    private string _reasonRemarks;
+    private string _primaryIDIssuanceDate;
+    private string _primaryIDExpirationdate;
+    private string _secondaryIDCode;
+    private string _secondaryIDType;
+    private string _secondaryIDNumber;
+    private string _secondaryIDIssuanceDate;
+    private string _secondaryIDExpirationdate;
+    private string _receiverStreet;
+    private string _receiverBarangay;
+    private string _receiverProvince;
+    private string _receiverZipCode;
+    private int _mobileNumber;
+    private string _emailAddress;
+    private string _dateOfBirth;
     #endregion
 
     #region Properties
@@ -168,6 +184,101 @@ public class PayoutTransactionRequest
         set { _sessionID = value; }
     }
 
+    public string PickupDate
+    {
+        get { return _pickupDate; }
+        set { _pickupDate = value; }
+    }
+
+    public string ReasonRemarks
+    {
+        get { return _reasonRemarks; }
+        set { _reasonRemarks = value; }
+    }
+
+    public string PrimaryIDIssuanceDate
+    {
+        get { return _primaryIDIssuanceDate; }
+        set { _primaryIDIssuanceDate = value; }
+    }
+
+    public string PrimaryIDExpirationdate
+    {
+        get { return _primaryIDExpirationdate; }
+        set { _primaryIDExpirationdate = value; }
+    }
+
+    public string SecondaryIDCode
+    {
+        get { return _secondaryIDCode; }
+        set { _secondaryIDCode = value; }
+    }
+    public string SecondaryIDType
+    {
+        get { return _secondaryIDType; }
+        set { _secondaryIDType = value; }
+    }
+
+    public string SecondaryIDNumber
+    {
+        get { return _secondaryIDNumber; }
+        set { _secondaryIDNumber = value; }
+    }
+
+    public string SecondaryIDIssuanceDate
+    {
+        get { return _secondaryIDIssuanceDate; }
+        set { _secondaryIDIssuanceDate = value; }
+    }
+
+    public string SecondaryIDExpirationdate
+    {
+        get { return _secondaryIDExpirationdate; }
+        set { _secondaryIDExpirationdate = value; }
+    }
+
+    public string ReceiverStreet
+    {
+        get { return _receiverStreet; }
+        set { _receiverStreet = value; }
+    }
+
+    public string ReceiverBarangay
+    {
+        get { return _receiverBarangay; }
+        set { _receiverBarangay = value; }
+    }
+
+    public string ReceiverProvince
+    {
+        get { return _receiverProvince; }
+        set { _receiverProvince = value; }
+    }
+
+    public string ReceiverZipCode
+    {
+        get { return _receiverZipCode; }
+        set { _receiverZipCode = value; }
+    }
+
+    public int MobileNumber
+    {
+        get { return _mobileNumber; }
+        set { _mobileNumber = value; }
+    }
+
+    public string EmailAddress
+    {
+        get { return _emailAddress; }
+        set { _emailAddress = value; }
+    }
+
+    public string DateOfBirth
+    {
+        get { return _dateOfBirth; }
+        set { _dateOfBirth = value; }
+    }
+
     #endregion
 
     #region Methods
@@ -206,13 +317,41 @@ public class PayoutTransactionRequest
 
         CarnelianWebServiceImplService service = new CarnelianWebServiceImplService();
 
+        //transactionUpdateResult result = service.updateTransactionStatus(
+        //    header,
+        //    2, // 2 = Paid out
+        //    true, DateTime.Now.ToString("MMddyyyyhhmmss"),
+        //    string.Empty,
+        //    _transactionNumber,
+        //    RemittancePartnerConfiguration.OutletCode);
+        _receiverIDType = RemittancePartnerConfiguration.GetIDMap(_receiverIDCode);
+        _secondaryIDType = RemittancePartnerConfiguration.GetIDMap(_secondaryIDCode);
         transactionUpdateResult result = service.updateTransactionStatus(
-            header,
-            2, // 2 = Paid out
-            true, DateTime.Now.ToString("MMddyyyyhhmmss"),
-            string.Empty,
-            _transactionNumber,
-            RemittancePartnerConfiguration.OutletCode);
+            header,//0
+            2,true, // 2 = Paid out//1
+            DateTime.Now.ToString("MMddyyyyhhmmss"),//2
+            string.Empty,//3
+            _transactionNumber,//4
+            RemittancePartnerConfiguration.OutletCode,//5
+            _receiverIDType,//6
+            _receiverIDDetails,//7
+            _primaryIDIssuanceDate,//8
+            _primaryIDExpirationdate,//9
+            _secondaryIDType,//10
+            _secondaryIDNumber,//11
+            _secondaryIDIssuanceDate,//12
+           _secondaryIDExpirationdate,//13
+           _receiverStreet,//14
+           _receiverBarangay,//15
+           _receiverCity,//16
+           _receiverProvince,//17
+           _receiverZipCode,//18
+           _receiverCountry,//19
+           _mobileNumber,true,//20
+           _emailAddress,//21
+           _dateOfBirth//22
+            );
+
 
         PayoutTransactionResult payoutTransactionResult = new PayoutTransactionResult(result, _transactionNumber);
 
