@@ -23,7 +23,6 @@ public class CebuanaCustomerInformation
     private List<CebuanaCustomerID> _registeredIDs;
 
     private List<CebuanaCustomerID> _secondaryIDs;
-    private string _pickupDate;
     private string _reasonRemarks;
     private string _primaryIDIssuanceDate;
     private string _primaryIDExpirationdate;
@@ -92,12 +91,7 @@ public class CebuanaCustomerInformation
         set { _secondaryIDs = value; }
     }
 
-
-    public string PickupDate
-    {
-        get { return _pickupDate; }
-        set { _pickupDate = value; }
-    }
+   
 
     public string ReasonRemarks
     {
